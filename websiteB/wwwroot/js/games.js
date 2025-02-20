@@ -64,7 +64,19 @@ const PLA = new Game("Pokémon: Legends Arceus", "Nintendo Switch", "images/plaE
     "This was my second playthrough. That says it all. I only replay games that are fantastic and fun no matter what and that's what legends arceus is. Really cool direction for the Pokémon series as a whole, even if it isn't considered a 'Main-Line' Pokémon game. Loved it, wanna do some of the end game stuff, caught some shinies this playthrough. One of my favorite newer Pokémon games."
 );
 
+// TODO: Add Red Dead 2
 
+// TODO: Add No Mans Sky
+
+// TODO: Add Monster Hunter World
+
+// TODO: Add Monster Hunter Rise
+
+// TODO: Add Skyrim
+
+// TODO: Add Oblivion
+
+// TODO: Add Fallout 4
 
 
 // Array of games
