@@ -40,10 +40,10 @@ document.addEventListener("DOMContentLoaded", function () {
     img2.classList.add("ai-me");
     img3.classList.add("wario");
 
-    // Append image to container
+    // Append images to container
     document.querySelector(".image-container").appendChild(img);
     document.querySelector(".image-container").appendChild(img2);
-    document.querySelector(".image-container").appendChild(wario);
+    document.querySelector(".image-container").appendChild(img3);
 
     const container = document.getElementById("aboutme-container");
 
