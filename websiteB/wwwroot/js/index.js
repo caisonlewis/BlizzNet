@@ -19,15 +19,23 @@
 
 }
 document.addEventListener("DOMContentLoaded", function () {
-    let img = document.createElement("img");
-    img.src = "/BlizzNet/websiteB/wwwroot//images/animalcrossingmusicfeels.png";
-    img.alt = "A picture of me";
+    const imageContainer = document.querySelector(".image-container");
 
-    // Add CSS class for styling
-    img.classList.add("profile-image");
+    // Array of image sources
+    const imageSources = [
+        "/BlizzNet/websiteB/wwwroot/images/animalcrossingmusicfeels.png",
+        "/BlizzNet/websiteB/wwwroot/images/imgofme.png",
+        "/BlizzNet/websiteB/wwwroot/images/sad-cat-rolling.gif"
+    ];
 
-    // Append image to container
-    document.querySelector(".image-container").appendChild(img);
+    // Loop through image sources and add them 
+    imageSources.forEach(src => {
+        let img = document.createElement("img");
+        img.src = src;
+        img.alt = "cool pix";
+        img.classList.add("profile-image");
+        imageContainer.appendChild(img);
+    });
 
     const container = document.getElementById("aboutme-container");
 

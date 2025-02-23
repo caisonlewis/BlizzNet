@@ -1,20 +1,24 @@
-﻿/* Homepage image */
+﻿/* Homepage images */
 
 .image-container {
     margin-top: 20px;
+    display: flex;
     align-content: center;
+    gap: 10px;
     margin-left: auto;
     margin-right: auto;
 }
 
-    .image-container img {
-        width: 200px;
-        height: auto;
-        border-radius: 10px; /* Rounds corners */
-        box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2); /* Adds a nice shadow */
-        border: 3px solid #0ff;
-        border-radius: 15px;
-        box-shadow: 0px 0px 15px #0ff;
+.profile-image {
+    width: auto;
+    height: auto;
+    border-radius: 10px; 
+    box-shadow: 0px 0px 10px rgba(0, 255, 255, 0.7); /* glow */
+    transition: transform 0.3s ease-in-out;
+}
+
+    .profile-image:hover {
+        transform: scale(1.1); /* zoom on hover */
     }
 
 /* About me section on homepage*/
