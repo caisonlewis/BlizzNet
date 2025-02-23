@@ -19,15 +19,23 @@
 
 }
 document.addEventListener("DOMContentLoaded", function () {
-    let img = document.createElement("img");
-    img.src = "/images/animalcrossingmusicfeels.png";
-    img.alt = "A picture of me";
+    const imageContainer = document.querySelector(".image-container");
 
-    // Add CSS class for styling
-    img.classList.add("profile-image");
+    // Array of image sources
+    const imageSources = [
+        "/images/animalcrossingmusicfeels.png",
+        "/images/imgofme.png",
+        "/images/plaEnd.jpg"
+    ];
 
-    // Append image to container
-    document.querySelector(".image-container").appendChild(img);
+    // Loop through image sources and add them dynamically
+    imageSources.forEach(src => {
+        let img = document.createElement("img");
+        img.src = src;
+        img.alt = "A picture related to me";
+        img.classList.add("profile-image");
+        imageContainer.appendChild(img);
+    });
 
     const container = document.getElementById("aboutme-container");
 
