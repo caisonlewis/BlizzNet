@@ -20,8 +20,7 @@
     /* Responsive YouTube Embed */
     .video-wrapper iframe {
         width: 100%;
-        max-width: 560px; /* Keep the video at an optimal size */
+        max-width: 660px; /* Keep the video at an optimal size */
         height: 315px;
-        border-radius: 10px; /* Optional: rounded corners */
-        box-shadow: 0px 0px 15px rgba(0, 255, 255, 0.8); /* Futuristic glow */
+        
     }
