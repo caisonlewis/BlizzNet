@@ -69,9 +69,11 @@ const rdr2 = new Game("Red Dead Redemption 2", "Xbox One", "/BlizzNet/websiteB/w
     "First of all, this game is absolutely stunning visually. The environmental details are super realistic, everything down to your gun getting dirty to bullet holes and blood trails being accurate. RDR2 is a visual masterpiece. On top of the gorgeous realism the game gives you, this is one of the best stories I've ever experienced. I mean EVER (including books, movies, etc.). The characters are fantastic, the missions are brutal. The attachment I had for Arthur by the end of the game is unmatched. 10/10 master class in writing and game design. Wish I could forget it all and experience it for the first time all over again."
 )
 
-// TODO: Add No Mans Sky
+const mhWorld = new Game("Monster Hunter World", "PlayStation 5", "/BlizzNet/websiteB/wwwroot/images/xenojiiva.jpg",
+    " I fell in love with Monster Hunter after vibing with Rise on PC and eventually Switch. I couldn't understand, despite it being the newer game in the series, why people collectively liked it more than Rise. I love Rise, the mechanics were really fun for me and the armor and weapon crafting loop that makes monster hunter, monster hunter resonated with me because of Rise. With that being said, I enjoyed World more. I remember trying it on Xbox Game Pass a couple of years ago before I played Rise and couldn't get into it. However, because Rise introduced me to what MH actually is, I really enjoyed World this time around. The monsters are cool, the armor and weapons are cool, and I found it to be more challenging and engaging than Rise. Just finished base game, gonna move on to the Iceborne expansion. I'll probably get side tracked before I finish it though considering i'm getting Monster Hunter Wilds day 1 and it will most likely consume my free time for the foreseeable future. MH world tho.. 9/10. Loved it. Only reason it doesn't get 10/10 for me is the unskippable cutscenes and Ancient Forest being so damn annoying to navigate. "
+);
 
-// TODO: Add Monster Hunter World
+// TODO: Add No Mans Sky
 
 // TODO: Add Monster Hunter Rise
 
@@ -84,7 +86,7 @@ const rdr2 = new Game("Red Dead Redemption 2", "Xbox One", "/BlizzNet/websiteB/w
 
 
 // Array of games
-const games = [rdr2, PLA, xc3, gris];
+const games = [mhWorld, rdr2, PLA, xc3, gris];
 
 // Display games on the page
 document.addEventListener("DOMContentLoaded", function () {
