@@ -9,6 +9,14 @@
     margin-right: auto;
 }
 
+   
+    .image-container img {
+        width: 25%;
+        max-width: 200px; 
+        height: auto; 
+        border-radius: 10px; 
+    }
+
 /* About me section on homepage*/
 
 #aboutme-container {
