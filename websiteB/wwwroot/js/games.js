@@ -73,6 +73,11 @@ const mhWorld = new Game("Monster Hunter World", "PlayStation 5", "/BlizzNet/web
     " I fell in love with Monster Hunter after vibing with Rise on PC and eventually Switch. I couldn't understand, despite it being the newer game in the series, why people collectively liked it more than Rise. I love Rise, the mechanics were really fun for me and the armor and weapon crafting loop that makes monster hunter, monster hunter resonated with me because of Rise. With that being said, I enjoyed World more. I remember trying it on Xbox Game Pass a couple of years ago before I played Rise and couldn't get into it. However, because Rise introduced me to what MH actually is, I really enjoyed World this time around. The monsters are cool, the armor and weapons are cool, and I found it to be more challenging and engaging than Rise. Just finished base game, gonna move on to the Iceborne expansion. I'll probably get side tracked before I finish it though considering i'm getting Monster Hunter Wilds day 1 and it will most likely consume my free time for the foreseeable future. MH world tho.. 9/10. Loved it. Only reason it doesn't get 10/10 for me is the unskippable cutscenes and Ancient Forest being so damn annoying to navigate. "
 );
 
+const mhWilds = new Game("Monster Hunter Wilds", "PlayStation 5", "/BlizzNet/websiteB/wwwroot/images/mhwilds.jpg",
+    "I couldn't understand why people review bombed this game on steam at release. I love Monster Hunter, fell in love with it through world and rise and was hype about getting this as soon as it was announced. I played the beta and thought it was decent but craved more. I can say without a doubt that it was worth the wait and the $70 price tag on release day. The visuals were fantastic, the gameplay was even better, and the new monsters were cool. I played switch axe this time around (my first time using switch axe in an MH game) and it was really damn cool. This games focus system and wound destroying really makes the hunts themselves soooo much better. I think this game takes the graphics, locale, and moster design from world and pairs it well with elements of combat from rise. Definitely the happy medium, which is exactly what I was hoping for with this game I finished the story in about 2 days however the game moves into high rank and really lets you off the leash after you beat the story. Loved it."
+);
+
+
 // TODO: Add No Mans Sky
 
 // TODO: Add Monster Hunter Rise
@@ -86,7 +91,7 @@ const mhWorld = new Game("Monster Hunter World", "PlayStation 5", "/BlizzNet/web
 
 
 // Array of games
-const games = [mhWorld, rdr2, PLA, xc3, gris];
+const games = [mhWilds,mhWorld, rdr2, PLA, xc3, gris];
 
 // Display games on the page
 document.addEventListener("DOMContentLoaded", function () {
