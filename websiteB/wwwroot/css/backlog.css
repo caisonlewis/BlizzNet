@@ -15,6 +15,23 @@
     text-shadow: 2px 2px 4px black;
 }
 
+/* Next up header*/
+
+.nextPlayingTitle {
+    align-content: center;
+    font-size: 25px;
+    color: goldenrod;
+    text-shadow: 2px 2px 4px black;
+}
+
+.nextGame {
+    align-content: center;
+    margin-top: 10px;
+    font-size: 18px;
+    color: whitesmoke;
+    text-shadow: 2px 2px 4px black;
+}
+
 /* Center the backlog table */
 #backlog-container {
     display: flex;
