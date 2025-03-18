@@ -27,7 +27,7 @@
     /* Title Styling */
     .journal-entry h2 {
         text-align: center;
-        font-size: 28px;
+        font-size: 20px;
         color: deepskyblue;
         margin-bottom: 10px;
     }
@@ -42,8 +42,8 @@
 
 /* Thoughts Styling */
 .entry-text {
-    font-size: 18px;
-    line-height: 1.6;
+    font-size: 16px;
+    line-height: 150%;
     color: #ddd;
     word-wrap: break-word;
     white-space: normal;
