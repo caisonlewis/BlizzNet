@@ -94,7 +94,7 @@ const leafgreen = new Game("Pokemon Leaf Green", "Gameboy Advance", "/BlizzNet/w
 
 
 // Array of games
-const games = [mhWilds,mhWorld, rdr2, PLA, xc3, gris];
+const games = [leafgreen, mhWilds,mhWorld, rdr2, PLA, xc3, gris];
 
 // Display games on the page
 document.addEventListener("DOMContentLoaded", function () {
