@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const imageSources = [
         "/BlizzNet/websiteB/wwwroot/images/animalcrossingmusicfeels.png",
         "/BlizzNet/websiteB/wwwroot/images/sad-cat-rolling.gif",
-        "/BlizzNet/websiteB/wwwroot/images/vibe.png"
+        "/BlizzNet/websiteB/wwwroot/images/blastoise-water.gif"
     ];
 
     // Loop through image sources and add them 

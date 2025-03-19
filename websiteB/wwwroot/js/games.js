@@ -77,6 +77,9 @@ const mhWilds = new Game("Monster Hunter Wilds", "PlayStation 5", "/BlizzNet/web
     "I couldn't understand why people review bombed this game on steam at release. I love Monster Hunter, fell in love with it through world and rise and was hype about getting this as soon as it was announced. I played the beta and thought it was decent but craved more. I can say without a doubt that it was worth the wait and the $70 price tag on release day. The visuals were fantastic, the gameplay was even better, and the new monsters were cool. I played switch axe this time around (my first time using switch axe in an MH game) and it was really damn cool. This games focus system and wound destroying really makes the hunts themselves soooo much better. I think this game takes the graphics, locale, and moster design from world and pairs it well with elements of combat from rise. Definitely the happy medium, which is exactly what I was hoping for with this game. I finished the story in about 2 days however the game moves into high rank and really lets you off the leash after you beat the story. Loved it and I will probably be playing this one on and off for some time to come. Considering I had 100+ hours in Rise and World, this will likely get the same treatment."
 );
 
+const leafgreen = new Game("Pokemon Leaf Green", "Gameboy Advance", "/BlizzNet/websiteB/wwwroot/images/leafgreen team.jpg",
+"So I started this as a kid and for some reason never finished it. I actually went the longest time without fully finishing a Kanto game despite my love for the Pokemon series. I just finally finished the elite 4 for leafgreen on my RG25XX Plus and I really loved it. I spent quite a while training up my dragonite and the elite 4 was actually fairly challenging for me because of the levels of my team. Great game, very nostalgic, glad I finished it."
+)
 
 // TODO: Add No Mans Sky
 
