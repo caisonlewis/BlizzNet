@@ -25,3 +25,13 @@
     border-radius: 10px; /* Optional: rounded corners */
     box-shadow: 0px 0px 15px rgba(0, 255, 255, 0.8); /* Futuristic glow */
 }
+
+.mh-image {
+    width: auto;
+    max-width: min(900px, 100%); /* Ensures max possible size without breaking layout */
+    height: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+}

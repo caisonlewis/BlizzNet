@@ -18,4 +18,20 @@
     // Add iframe to wrapper and container
     videoWrapper.appendChild(iframe);
     container.appendChild(videoWrapper);
+
+
+    // Array of image sources
+    const imageSources = [
+        "/BlizzNet/websiteB/wwwroot//images/MH/build1.jpg",
+        "/BlizzNet/websiteB/wwwroot//images/MH/build2.jpg"
+    ];
+
+    // Loop through image sources and create img elements
+    imageSources.forEach(src => {
+        let img = document.createElement("img");
+        img.src = src;
+        img.alt = "build pictures";
+        img.classList.add("mh-image");
+        container.appendChild(img);
+    });
 });
