@@ -1,12 +1,13 @@
-﻿/* Center the Monster Hunter video on the page */
+﻿/* Monster Hunter Container */
 #mh-container {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 80vh;
-    margin-top: auto;
-    width: 100%;
     flex-direction: column;
+    align-items: center;
+    justify-content: flex-start; /* Adjust to start from the top */
+    min-height: 100vh; /* Use min-height instead of fixed height */
+    width: 100%;
+    padding-top: 20px; /* Add space at the top */
+    padding-bottom: 40px; /* Extra space to prevent cutoff */
 }
 
 /* Video Wrapper */
@@ -16,17 +17,19 @@
     align-items: center;
     width: 100%;
     max-width: 900px; /* Limit max width for responsiveness */
+    margin-top: 20px; /* Space between images and video */
 }
 
-/* Responsive YouTube Embed */
-.video-wrapper iframe {
-    width: 100%;
-    max-width: 560px; /* Keep the video at an optimal size */
-    height: 315px;
-    border-radius: 10px; /* Optional: rounded corners */
-    box-shadow: 0px 0px 15px rgba(0, 255, 255, 0.8); /* Futuristic glow */
-}
+    /* Responsive YouTube Embed */
+    .video-wrapper iframe {
+        width: 100%;
+        max-width: 560px; /* Keep the video at an optimal size */
+        height: 315px;
+        border-radius: 10px; /* Optional: rounded corners */
+        box-shadow: 0px 0px 15px rgba(0, 255, 255, 0.8); /* Futuristic glow */
+    }
 
+/* Monster Hunter Images */
 .mh-image {
     width: auto;
     max-width: min(900px, 100%); /* Ensures max possible size without breaking layout */
