@@ -1,5 +1,5 @@
 ﻿{
-  "title": "I Love Retro Games",
+  "title": "Blizzy's Retro Arcade",
   "categories": [
     {
       "title": "2600",
@@ -1479,19 +1479,6 @@
           "added": 1641776504987
         },
         {
-          "title": "Astro Warrior & Pit Pot",
-          "longTitle": "Astro Warrior & Pit Pot (Europe)",
-          "type": "sms",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/Astro%20Warrior%20%26%20Pit%20Pot%20(Europe).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/Astro%20Warrior%20%26%20Pit%20Pot%20(Europe).png",
-          "description": "Two games on one cartridge:\n\nPit Pot: The Magical Castle The princess has been kidnapped. To rescue her, navigate your way through each room while avoiding its inhabitants such as dragons and guards. If necessary, use your magical hammer to knock them off the screen. You can also knock a gray tile that they are on to cause them to fall down and die. You exit each room by passing through doors, but you have to find a golden key that will unlock some of them. \n\nAstro Warrior Blast your way through three zones, including Galaxy Zone, Asteroid Zone, and Nebula Zone. Enemies will start making their way down the screen, but you only have bullets to deal with them. There are flashing points on the terrain in which you can shoot at, Shooting enough of these will cause a number of green ships, which when destroyed, will upgrade your firepower. At the end of each zone, you come face to face with a boss, and it is likely that you are going to need that extra firepower.",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/sms-vs-recommended-games/Astro%20Warrior%20%26%20Pit%20Pot%20%28Europe%29.sms"
-          },
-          "added": 1641776504987
-        },
-        {
           "title": "Astro Warrior",
           "longTitle": "Astro Warrior (Japan, USA, Brazil)",
           "type": "sms",
@@ -1501,6 +1488,19 @@
           "backgroundPixelated": true,
           "props": {
             "rom": "https://archive.org/download/sms-vs-recommended-games/Astro%20Warrior%20%28Japan%2C%20USA%29.sms"
+          },
+          "added": 1641776504987
+        },
+        {
+          "title": "Astro Warrior & Pit Pot",
+          "longTitle": "Astro Warrior & Pit Pot (Europe)",
+          "type": "sms",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Snaps/output/Astro%20Warrior%20%26%20Pit%20Pot%20(Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-sms-images/master/Named_Titles/resized/Astro%20Warrior%20%26%20Pit%20Pot%20(Europe).png",
+          "description": "Two games on one cartridge:\n\nPit Pot: The Magical Castle The princess has been kidnapped. To rescue her, navigate your way through each room while avoiding its inhabitants such as dragons and guards. If necessary, use your magical hammer to knock them off the screen. You can also knock a gray tile that they are on to cause them to fall down and die. You exit each room by passing through doors, but you have to find a golden key that will unlock some of them. \n\nAstro Warrior Blast your way through three zones, including Galaxy Zone, Asteroid Zone, and Nebula Zone. Enemies will start making their way down the screen, but you only have bullets to deal with them. There are flashing points on the terrain in which you can shoot at, Shooting enough of these will cause a number of green ships, which when destroyed, will upgrade your firepower. At the end of each zone, you come face to face with a boss, and it is likely that you are going to need that extra firepower.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/sms-vs-recommended-games/Astro%20Warrior%20%26%20Pit%20Pot%20%28Europe%29.sms"
           },
           "added": 1641776504987
         },
@@ -1568,14 +1568,6 @@
           "added": 1641776504988
         },
         {
-          "props": {
-            "rom": "https://archive.org/download/sms-vs-recommended-games/Bomber%20Raid%20%28Genesis%20Controller%29.sms"
-          },
-          "type": "sms",
-          "title": "Bomber Raid (Genesis Controller)",
-          "added": 1641776504988
-        },
-        {
           "title": "Bomber Raid",
           "longTitle": "Bomber Raid (World)",
           "type": "sms",
@@ -1586,6 +1578,14 @@
           "props": {
             "rom": "https://archive.org/download/sms-vs-recommended-games/Bomber%20Raid%20%28World%29.sms"
           },
+          "added": 1641776504988
+        },
+        {
+          "props": {
+            "rom": "https://archive.org/download/sms-vs-recommended-games/Bomber%20Raid%20%28Genesis%20Controller%29.sms"
+          },
+          "type": "sms",
+          "title": "Bomber Raid (Genesis Controller)",
           "added": 1641776504988
         },
         {
@@ -2085,14 +2085,6 @@
           "added": 1641776504993
         },
         {
-          "props": {
-            "rom": "https://archive.org/download/sms-vs-recommended-games/Montezuma%27s%20Revenge%20%28Genesis%20Controller%29.sms"
-          },
-          "type": "sms",
-          "title": "Montezuma's Revenge (Genesis Controller)",
-          "added": 1641776504993
-        },
-        {
           "title": "Montezuma's Revenge - Featuring Panama Joe",
           "longTitle": "Montezuma's Revenge - Featuring Panama Joe (USA)",
           "type": "sms",
@@ -2103,6 +2095,14 @@
           "props": {
             "rom": "https://archive.org/download/sms-vs-recommended-games/Montezuma%27s%20Revenge%20Featuring%20Panama%20Joe%20%28USA%29.sms"
           },
+          "added": 1641776504993
+        },
+        {
+          "props": {
+            "rom": "https://archive.org/download/sms-vs-recommended-games/Montezuma%27s%20Revenge%20%28Genesis%20Controller%29.sms"
+          },
+          "type": "sms",
+          "title": "Montezuma's Revenge (Genesis Controller)",
           "added": 1641776504993
         },
         {
@@ -2157,14 +2157,6 @@
           "added": 1641776504993
         },
         {
-          "props": {
-            "rom": "https://archive.org/download/sms-vs-recommended-games/Penguin%20Land%20%28Genesis%20Controller%29.sms"
-          },
-          "type": "sms",
-          "title": "Penguin Land (Genesis Controller)",
-          "added": 1641776504993
-        },
-        {
           "title": "Penguin Land",
           "longTitle": "Penguin Land (USA, Europe)",
           "type": "sms",
@@ -2176,6 +2168,14 @@
             "rom": "https://archive.org/download/sms-vs-recommended-games/Penguin%20Land%20%28USA%2C%20Europe%29.sms"
           },
           "added": 1641776504994
+        },
+        {
+          "props": {
+            "rom": "https://archive.org/download/sms-vs-recommended-games/Penguin%20Land%20%28Genesis%20Controller%29.sms"
+          },
+          "type": "sms",
+          "title": "Penguin Land (Genesis Controller)",
+          "added": 1641776504993
         },
         {
           "title": "Phantasy Star",
@@ -2302,14 +2302,6 @@
           "added": 1641776504995
         },
         {
-          "props": {
-            "rom": "https://archive.org/download/sms-vs-recommended-games/Shanghai%20%28Genesis%20Controller%29.sms"
-          },
-          "type": "sms",
-          "title": "Shanghai (Genesis Controller)",
-          "added": 1641776504995
-        },
-        {
           "title": "Shanghai",
           "longTitle": "Shanghai (USA, Europe)",
           "type": "sms",
@@ -2319,6 +2311,14 @@
           "props": {
             "rom": "https://archive.org/download/sms-vs-recommended-games/Shanghai%20%28USA%2C%20Europe%29.sms"
           },
+          "added": 1641776504995
+        },
+        {
+          "props": {
+            "rom": "https://archive.org/download/sms-vs-recommended-games/Shanghai%20%28Genesis%20Controller%29.sms"
+          },
+          "type": "sms",
+          "title": "Shanghai (Genesis Controller)",
           "added": 1641776504995
         },
         {
@@ -2533,14 +2533,6 @@
           "added": 1641776504996
         },
         {
-          "props": {
-            "rom": "https://archive.org/download/sms-vs-recommended-games/Wonder%20Boy%20III%20%28Genesis%20Controller%29.sms"
-          },
-          "type": "sms",
-          "title": "Wonder Boy III (Genesis Controller)",
-          "added": 1641776504996
-        },
-        {
           "title": "Wonder Boy III - The Dragon's Trap",
           "longTitle": "Wonder Boy III - The Dragon's Trap (USA, Europe)",
           "type": "sms",
@@ -2552,6 +2544,14 @@
             "rom": "https://archive.org/download/sms-vs-recommended-games/Wonder%20Boy%20III%20-%20The%20Dragon%27s%20Trap%20%28USA%2C%20Europe%29.sms"
           },
           "added": 1641776504998
+        },
+        {
+          "props": {
+            "rom": "https://archive.org/download/sms-vs-recommended-games/Wonder%20Boy%20III%20%28Genesis%20Controller%29.sms"
+          },
+          "type": "sms",
+          "title": "Wonder Boy III (Genesis Controller)",
+          "added": 1641776504996
         },
         {
           "props": {
@@ -2709,6 +2709,18 @@
           "added": 1641777758162
         },
         {
+          "title": "Bare Knuckle - Ikari no Tekken",
+          "longTitle": "Bare Knuckle - Ikari no Tekken (World) (Rev A)",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Bare%20Knuckle%20-%20Ikari%20no%20Tekken%20(World)%20(Rev%20A).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Bare%20Knuckle%20-%20Ikari%20no%20Tekken%20(World)%20(Rev%20A).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/md-vs-recommended-games/Streets%20of%20Rage%20-%20Bare%20Knuckle%20-%20Ikari%20no%20Tetsuken%20%28World%29%20%28Rev%20A%29.md"
+          },
+          "added": 1641777758167
+        },
+        {
           "title": "Batman - The Video Game",
           "longTitle": "Batman - The Video Game (USA)",
           "type": "genesis",
@@ -2863,6 +2875,19 @@
             "rom": "https://archive.org/download/md-vs-recommended-games/Crusader%20of%20Centy%20%28USA%29.md"
           },
           "added": 1641777758163
+        },
+        {
+          "title": "Daimakaimura",
+          "longTitle": "Daimakaimura (World) (Rev A)",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Daimakaimura%20(World)%20(Rev%20A).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Daimakaimura%20(World)%20(Rev%20A).png",
+          "description": "Arthur must venture back to the Lucifer's palace and destroy the demon in order to rescue the Princess' soul and bring her back to life! And it won't matter whether he fights in his shining armor or in his underwear alone...the bravest Knight in the land isn't going to be stopped by some monsters! Although the game starts with graveyard and marsh territory familiar from the first game, later levels are set in a tower, a mass of skeletons, and a castle.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/md-vs-recommended-games/Ghouls%27n%20Ghosts%20%28USA%2C%20Europe%29%20%28Rev%20A%29.md"
+          },
+          "added": 1641777758164
         },
         {
           "title": "DEcapAttack",
@@ -3076,19 +3101,6 @@
           "added": 1641777758164
         },
         {
-          "title": "Daimakaimura",
-          "longTitle": "Daimakaimura (World) (Rev A)",
-          "type": "genesis",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Daimakaimura%20(World)%20(Rev%20A).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Daimakaimura%20(World)%20(Rev%20A).png",
-          "description": "Arthur must venture back to the Lucifer's palace and destroy the demon in order to rescue the Princess' soul and bring her back to life! And it won't matter whether he fights in his shining armor or in his underwear alone...the bravest Knight in the land isn't going to be stopped by some monsters! Although the game starts with graveyard and marsh territory familiar from the first game, later levels are set in a tower, a mass of skeletons, and a castle.",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/md-vs-recommended-games/Ghouls%27n%20Ghosts%20%28USA%2C%20Europe%29%20%28Rev%20A%29.md"
-          },
-          "added": 1641777758164
-        },
-        {
           "title": "Golden Axe",
           "longTitle": "Golden Axe (World) (Rev A)",
           "type": "genesis",
@@ -3292,6 +3304,19 @@
           "added": 1641777758165
         },
         {
+          "title": "Lightening Force - Quest for the Darkstar",
+          "longTitle": "Lightening Force - Quest for the Darkstar (USA)",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Lightening%20Force%20-%20Quest%20for%20the%20Darkstar%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Lightening%20Force%20-%20Quest%20for%20the%20Darkstar%20(USA).png",
+          "description": "You must lead the battle against the evil Lohun Empire. Their computer system is poised to destroy your Galaxy Federation's defenses. Lead the attack on their heavily defended military planet. Knock out the planet's command center to pave the way for the invasion force. Take the fight underwater to destroy massive marine battlecruisers. Launch magnetically-charged photon blasts at alien bio-machines. Twist through the labyrinthine structure of the enemy's Bio-Base. There you'll meet your final objective, the destructive regenerating computer. Cut loose with the Thunder Sword, your most powerful energy beam, as you battle this ultimate weapon!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/md-vs-recommended-games/Thunder%20Force%20IV%20-%20Lightening%20Force%20-%20Quest%20for%20the%20Darkstar%20%28USA%29.md"
+          },
+          "added": 1641777758168
+        },
+        {
           "title": "Lion King, The",
           "longTitle": "Lion King, The (World)",
           "type": "genesis",
@@ -3314,19 +3339,6 @@
           "backgroundPixelated": true,
           "props": {
             "rom": "https://archive.org/download/md-vs-recommended-games/Lost%20Vikings%2C%20The%20%28USA%29.md"
-          },
-          "added": 1641777758165
-        },
-        {
-          "title": "MUSHA - Metallic Uniframe Super Hybrid Armor",
-          "longTitle": "MUSHA - Metallic Uniframe Super Hybrid Armor (USA)",
-          "type": "genesis",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/MUSHA%20-%20Metallic%20Uniframe%20Super%20Hybrid%20Armor%20(USA).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/MUSHA%20-%20Metallic%20Uniframe%20Super%20Hybrid%20Armor%20(USA).png",
-          "description": "A spin-off from the successful Aleste series by Compile, Musha Aleste takes the same top-down shooter mechanics of it's predecessors but stages the action in a bizarre universe that merges traditional Japanese lore with sci-fi mecha action.\n\nInstead of commanding a ship, you will actually step into the cockpit of a ninja-styled mecha as you fight through the many levels in the game, with several option satellites that can be configured to use different formations.",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/md-vs-recommended-games/MUSHA%20-%20Metallic%20Uniframe%20Super%20Hybrid%20Armor%20%28USA%29.md"
           },
           "added": 1641777758165
         },
@@ -3392,6 +3404,19 @@
           "backgroundPixelated": true,
           "props": {
             "rom": "https://archive.org/download/md-vs-recommended-games/Micro%20Machines%20%28USA%2C%20Europe%29.md"
+          },
+          "added": 1641777758165
+        },
+        {
+          "title": "MUSHA - Metallic Uniframe Super Hybrid Armor",
+          "longTitle": "MUSHA - Metallic Uniframe Super Hybrid Armor (USA)",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/MUSHA%20-%20Metallic%20Uniframe%20Super%20Hybrid%20Armor%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/MUSHA%20-%20Metallic%20Uniframe%20Super%20Hybrid%20Armor%20(USA).png",
+          "description": "A spin-off from the successful Aleste series by Compile, Musha Aleste takes the same top-down shooter mechanics of it's predecessors but stages the action in a bizarre universe that merges traditional Japanese lore with sci-fi mecha action.\n\nInstead of commanding a ship, you will actually step into the cockpit of a ninja-styled mecha as you fight through the many levels in the game, with several option satellites that can be configured to use different formations.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/md-vs-recommended-games/MUSHA%20-%20Metallic%20Uniframe%20Super%20Hybrid%20Armor%20%28USA%29.md"
           },
           "added": 1641777758165
         },
@@ -3862,6 +3887,19 @@
           "added": 1641777758167
         },
         {
+          "title": "Sonic Spinball",
+          "longTitle": "Sonic Spinball (USA)",
+          "type": "genesis",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Sonic%20Spinball%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Sonic%20Spinball%20(USA).png",
+          "description": "Dr. Robotnik has assumed control of Mt. Mobius and turned it into a mechanical base. Utilizing energy produced by the magma flowing under the volcano, this new monstrosity (the Veg-O-Fortress) has the power to transform helpless animals into robot slaves at an astounding rate. Sonic the Hedgehog and Tails fly onto the scene to mount an aerial assault, but Sonic is knocked off the wings of Tails' airplane by a blast from the fortress. He falls into the water, but is rescued and taken to the subterranean levels of the Veg-O-Fortress. The fortress must be destroyed from the inside-out, and the only way to make that happen is to trigger an eruption in the volcano it's built on. Sonic knows this can be done by removing the Chaos Emeralds that keep the volcano stable. Robotnik, however, is also aware of the fragile relationship that exists between the Emeralds and the mountain, and he's set up an elaborate Pinball Defense System to make sure the precious jewels don't go anywhere.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/md-vs-recommended-games/Sonic%20The%20Hedgehog%20Spinball%20%28USA%29.md"
+          },
+          "added": 1641777758167
+        },
+        {
           "title": "Sonic The Hedgehog",
           "longTitle": "Sonic The Hedgehog (USA, Europe)",
           "type": "genesis",
@@ -3897,19 +3935,6 @@
           "backgroundPixelated": true,
           "props": {
             "rom": "https://archive.org/download/md-vs-recommended-games/Sonic%20The%20Hedgehog%203%20%28USA%29.md"
-          },
-          "added": 1641777758167
-        },
-        {
-          "title": "Sonic Spinball",
-          "longTitle": "Sonic Spinball (USA)",
-          "type": "genesis",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Sonic%20Spinball%20(USA).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Sonic%20Spinball%20(USA).png",
-          "description": "Dr. Robotnik has assumed control of Mt. Mobius and turned it into a mechanical base. Utilizing energy produced by the magma flowing under the volcano, this new monstrosity (the Veg-O-Fortress) has the power to transform helpless animals into robot slaves at an astounding rate. Sonic the Hedgehog and Tails fly onto the scene to mount an aerial assault, but Sonic is knocked off the wings of Tails' airplane by a blast from the fortress. He falls into the water, but is rescued and taken to the subterranean levels of the Veg-O-Fortress. The fortress must be destroyed from the inside-out, and the only way to make that happen is to trigger an eruption in the volcano it's built on. Sonic knows this can be done by removing the Chaos Emeralds that keep the volcano stable. Robotnik, however, is also aware of the fragile relationship that exists between the Emeralds and the mountain, and he's set up an elaborate Pinball Defense System to make sure the precious jewels don't go anywhere.",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/md-vs-recommended-games/Sonic%20The%20Hedgehog%20Spinball%20%28USA%29.md"
           },
           "added": 1641777758167
         },
@@ -3983,18 +4008,6 @@
           "backgroundPixelated": true,
           "props": {
             "rom": "https://archive.org/download/md-vs-recommended-games/Steel%20Empire%20%28USA%29.md"
-          },
-          "added": 1641777758167
-        },
-        {
-          "title": "Bare Knuckle - Ikari no Tekken",
-          "longTitle": "Bare Knuckle - Ikari no Tekken (World) (Rev A)",
-          "type": "genesis",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Bare%20Knuckle%20-%20Ikari%20no%20Tekken%20(World)%20(Rev%20A).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Bare%20Knuckle%20-%20Ikari%20no%20Tekken%20(World)%20(Rev%20A).png",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/md-vs-recommended-games/Streets%20of%20Rage%20-%20Bare%20Knuckle%20-%20Ikari%20no%20Tetsuken%20%28World%29%20%28Rev%20A%29.md"
           },
           "added": 1641777758167
         },
@@ -4138,19 +4151,6 @@
           "backgroundPixelated": true,
           "props": {
             "rom": "https://archive.org/download/md-vs-recommended-games/Thunder%20Force%20III%20%28Japan%2C%20USA%29.md"
-          },
-          "added": 1641777758168
-        },
-        {
-          "title": "Lightening Force - Quest for the Darkstar",
-          "longTitle": "Lightening Force - Quest for the Darkstar (USA)",
-          "type": "genesis",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Snaps/output/Lightening%20Force%20-%20Quest%20for%20the%20Darkstar%20(USA).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-genesis-images/master/Named_Titles/resized/Lightening%20Force%20-%20Quest%20for%20the%20Darkstar%20(USA).png",
-          "description": "You must lead the battle against the evil Lohun Empire. Their computer system is poised to destroy your Galaxy Federation's defenses. Lead the attack on their heavily defended military planet. Knock out the planet's command center to pave the way for the invasion force. Take the fight underwater to destroy massive marine battlecruisers. Launch magnetically-charged photon blasts at alien bio-machines. Twist through the labyrinthine structure of the enemy's Bio-Base. There you'll meet your final objective, the destructive regenerating computer. Cut loose with the Thunder Sword, your most powerful energy beam, as you battle this ultimate weapon!",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/md-vs-recommended-games/Thunder%20Force%20IV%20-%20Lightening%20Force%20-%20Quest%20for%20the%20Darkstar%20%28USA%29.md"
           },
           "added": 1641777758168
         },
@@ -4380,19 +4380,6 @@
       "title": "GG",
       "items": [
         {
-          "title": "GG Aleste II",
-          "longTitle": "GG Aleste II (Japan, Europe)",
-          "type": "gg",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gg-images/master/Named_Snaps/output/GG%20Aleste%20II%20(Japan%2C%20Europe).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gg-images/master/Named_Titles/resized/GG%20Aleste%20II%20(Japan%2C%20Europe).png",
-          "description": "Power Strike II is an Action game, developed by Compile and published by Sega, which was released in Europe in 1994.",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/gg-vs-recommended-games/Aleste%20II%20~%20Power%20Strike%20II%20%28Japan%2C%20Europe%29.gg"
-          },
-          "added": 1641776133998
-        },
-        {
           "title": "Alien Syndrome",
           "longTitle": "Alien Syndrome (Europe)",
           "type": "gg",
@@ -4416,6 +4403,19 @@
             "rom": "https://archive.org/download/gg-vs-recommended-games/Baku%20Baku%20Animal%20%28USA%29.gg"
           },
           "added": 1641776133998
+        },
+        {
+          "title": "Bare Knuckle II",
+          "longTitle": "Bare Knuckle II (World)",
+          "type": "gg",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gg-images/master/Named_Snaps/output/Bare%20Knuckle%20II%20(World).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gg-images/master/Named_Titles/resized/Bare%20Knuckle%20II%20(World).png",
+          "description": "Original rumblers Axel and Blaze slam the asphalt with bigger, better, totally devastating attacks! Skull-crushing ex-wrestler Max Thunder joins up with earth-shattering body slams and spinning fist attacks. New thrasher Skate slices punks with high speed in-line skate attacks and spinning jump kicks. Go maniac with jaw-shattering, bone-busting punches, head-cracking jump kicks and secret weapons. Gangs of dirt bikers dive into you from every side. Smash 'em with a pipe as they speed by.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/gg-vs-recommended-games/Streets%20of%20Rage%20II%20%28World%29.gg"
+          },
+          "added": 1641776134004
         },
         {
           "title": "Batman Returns",
@@ -4621,6 +4621,31 @@
           "added": 1641776134001
         },
         {
+          "title": "GG Aleste II",
+          "longTitle": "GG Aleste II (Japan, Europe)",
+          "type": "gg",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gg-images/master/Named_Snaps/output/GG%20Aleste%20II%20(Japan%2C%20Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gg-images/master/Named_Titles/resized/GG%20Aleste%20II%20(Japan%2C%20Europe).png",
+          "description": "Power Strike II is an Action game, developed by Compile and published by Sega, which was released in Europe in 1994.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/gg-vs-recommended-games/Aleste%20II%20~%20Power%20Strike%20II%20%28Japan%2C%20Europe%29.gg"
+          },
+          "added": 1641776133998
+        },
+        {
+          "title": "GG Shinobi II, The",
+          "longTitle": "GG Shinobi II, The (World)",
+          "type": "gg",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gg-images/master/Named_Snaps/output/GG%20Shinobi%20II%2C%20The%20(World).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gg-images/master/Named_Titles/resized/GG%20Shinobi%20II%2C%20The%20(World).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/gg-vs-recommended-games/Shinobi%20II%20-%20The%20Silent%20Fury%20%28World%29%20%28Ja%29.gg"
+          },
+          "added": 1641776134003
+        },
+        {
           "title": "GG Shinobi, The",
           "longTitle": "GG Shinobi, The (Japan)",
           "type": "gg",
@@ -4632,6 +4657,19 @@
             "rom": "https://archive.org/download/gg-vs-recommended-games/GG%20Shinobi%2C%20The%20%28Japan%29.gg"
           },
           "added": 1641776134001
+        },
+        {
+          "title": "GG Shinobi, The",
+          "longTitle": "GG Shinobi, The (World) (Rev 1)",
+          "type": "gg",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gg-images/master/Named_Snaps/output/GG%20Shinobi%2C%20The%20(World)%20(Rev%201).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gg-images/master/Named_Titles/resized/GG%20Shinobi%2C%20The%20(World)%20(Rev%201).png",
+          "description": "Shinobi. It's Japanese for stealth, the perfect description of a Master Ninja. And that's exactly what you are! Armed with throwing stars and finely-honed battle skills, you must defeat the Ring of Five. Fight your way past mercenaries and karate thugs. Take out the meanest martial artists and rescue hostages. But these dangers pale in comparison to your ultimate challenge: A fight to the death against five evil Ninja Assassins whose mastery of the deadly ancient arts may well surpass your own!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/gg-vs-recommended-games/Shinobi%20%28USA%2C%20Europe%29.gg"
+          },
+          "added": 1641776134003
         },
         {
           "title": "Halley Wars",
@@ -4819,14 +4857,6 @@
           "added": 1641776134003
         },
         {
-          "props": {
-            "rom": "https://archive.org/download/gg-vs-recommended-games/Shining%20Force%20Gaiden%20-%20Final%20Conflict%20%28J%29%20T%2BEng%2020060707%20SFCentral.gg"
-          },
-          "type": "gg",
-          "title": "Shining Force Gaiden - Final Conflict (J) T+Eng 20060707 SFCentral",
-          "added": 1641776134003
-        },
-        {
           "title": "Shining Force - The Sword of Hajya",
           "longTitle": "Shining Force - The Sword of Hajya (USA)",
           "type": "gg",
@@ -4839,28 +4869,11 @@
           "added": 1641776134003
         },
         {
-          "title": "GG Shinobi, The",
-          "longTitle": "GG Shinobi, The (World) (Rev 1)",
-          "type": "gg",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gg-images/master/Named_Snaps/output/GG%20Shinobi%2C%20The%20(World)%20(Rev%201).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gg-images/master/Named_Titles/resized/GG%20Shinobi%2C%20The%20(World)%20(Rev%201).png",
-          "description": "Shinobi. It's Japanese for stealth, the perfect description of a Master Ninja. And that's exactly what you are! Armed with throwing stars and finely-honed battle skills, you must defeat the Ring of Five. Fight your way past mercenaries and karate thugs. Take out the meanest martial artists and rescue hostages. But these dangers pale in comparison to your ultimate challenge: A fight to the death against five evil Ninja Assassins whose mastery of the deadly ancient arts may well surpass your own!",
-          "backgroundPixelated": true,
           "props": {
-            "rom": "https://archive.org/download/gg-vs-recommended-games/Shinobi%20%28USA%2C%20Europe%29.gg"
+            "rom": "https://archive.org/download/gg-vs-recommended-games/Shining%20Force%20Gaiden%20-%20Final%20Conflict%20%28J%29%20T%2BEng%2020060707%20SFCentral.gg"
           },
-          "added": 1641776134003
-        },
-        {
-          "title": "GG Shinobi II, The",
-          "longTitle": "GG Shinobi II, The (World)",
           "type": "gg",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gg-images/master/Named_Snaps/output/GG%20Shinobi%20II%2C%20The%20(World).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gg-images/master/Named_Titles/resized/GG%20Shinobi%20II%2C%20The%20(World).png",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/gg-vs-recommended-games/Shinobi%20II%20-%20The%20Silent%20Fury%20%28World%29%20%28Ja%29.gg"
-          },
+          "title": "Shining Force Gaiden - Final Conflict (J) T+Eng 20060707 SFCentral",
           "added": 1641776134003
         },
         {
@@ -4871,19 +4884,6 @@
             "rom": "https://archive.org/download/gg-vs-recommended-games/Sonic%20Drift%202%20%28Japan%2C%20USA%29.gg"
           },
           "added": 1641776134003
-        },
-        {
-          "title": "Sonic The Hedgehog - Triple Trouble",
-          "longTitle": "Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil)",
-          "type": "gg",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gg-images/master/Named_Snaps/output/Sonic%20The%20Hedgehog%20-%20Triple%20Trouble%20(USA%2C%20Europe%2C%20Brazil).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gg-images/master/Named_Titles/resized/Sonic%20The%20Hedgehog%20-%20Triple%20Trouble%20(USA%2C%20Europe%2C%20Brazil).png",
-          "description": "Sonic and Tails are back with three times the fun and three times the trouble! Dr. Robotnik is building the ultimate super-weapon with the help of Knuckles, but you can stop him by getting the Chaos Emeralds first. Rip across snow and water on Sonic's new jet skateboard or zip underwater in Tails' \"Sea Fox\". But look out - Nack the Weasel is after the Emeralds, too!",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/gg-vs-recommended-games/Sonic%20The%20Hedgehog%20-%20Triple%20Trouble%20%28USA%2C%20Europe%29.gg"
-          },
-          "added": 1641776134004
         },
         {
           "title": "Sonic Spinball",
@@ -4899,15 +4899,15 @@
           "added": 1641776134004
         },
         {
-          "title": "Bare Knuckle II",
-          "longTitle": "Bare Knuckle II (World)",
+          "title": "Sonic The Hedgehog - Triple Trouble",
+          "longTitle": "Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil)",
           "type": "gg",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gg-images/master/Named_Snaps/output/Bare%20Knuckle%20II%20(World).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gg-images/master/Named_Titles/resized/Bare%20Knuckle%20II%20(World).png",
-          "description": "Original rumblers Axel and Blaze slam the asphalt with bigger, better, totally devastating attacks! Skull-crushing ex-wrestler Max Thunder joins up with earth-shattering body slams and spinning fist attacks. New thrasher Skate slices punks with high speed in-line skate attacks and spinning jump kicks. Go maniac with jaw-shattering, bone-busting punches, head-cracking jump kicks and secret weapons. Gangs of dirt bikers dive into you from every side. Smash 'em with a pipe as they speed by.",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gg-images/master/Named_Snaps/output/Sonic%20The%20Hedgehog%20-%20Triple%20Trouble%20(USA%2C%20Europe%2C%20Brazil).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gg-images/master/Named_Titles/resized/Sonic%20The%20Hedgehog%20-%20Triple%20Trouble%20(USA%2C%20Europe%2C%20Brazil).png",
+          "description": "Sonic and Tails are back with three times the fun and three times the trouble! Dr. Robotnik is building the ultimate super-weapon with the help of Knuckles, but you can stop him by getting the Chaos Emeralds first. Rip across snow and water on Sonic's new jet skateboard or zip underwater in Tails' \"Sea Fox\". But look out - Nack the Weasel is after the Emeralds, too!",
           "backgroundPixelated": true,
           "props": {
-            "rom": "https://archive.org/download/gg-vs-recommended-games/Streets%20of%20Rage%20II%20%28World%29.gg"
+            "rom": "https://archive.org/download/gg-vs-recommended-games/Sonic%20The%20Hedgehog%20-%20Triple%20Trouble%20%28USA%2C%20Europe%29.gg"
           },
           "added": 1641776134004
         },
@@ -4997,19 +4997,6 @@
           "backgroundPixelated": true,
           "props": {
             "rom": "https://archive.org/download/nes-vs-recommended-games/1943%20-%20The%20Battle%20of%20Midway%20%28USA%29.nes"
-          },
-          "added": 1641778471053
-        },
-        {
-          "title": "David Crane's A Boy and His Blob - Trouble on Blobolonia",
-          "longTitle": "David Crane's A Boy and His Blob - Trouble on Blobolonia (USA)",
-          "type": "nes",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/David%20Crane's%20A%20Boy%20and%20His%20Blob%20-%20Trouble%20on%20Blobolonia%20(USA).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/David%20Crane's%20A%20Boy%20and%20His%20Blob%20-%20Trouble%20on%20Blobolonia%20(USA).png",
-          "description": "A Boy and His Blob: Trouble on Blobolonia is a side-scrolling platformer in which the character and his friend Blob (full name Blobert) travel together on Earth and on Blobert's home planet Blobolonia in a quest to defeat an evil emperor. Blobert can change into several different items when he is fed jelly beans. A licorice jelly bean, for instance, will change Blobert into a ladder, while a honey jelly bean will turn him into a hummingbird. Most of these transformations can be remembered mnemonically due to a correlation between the flavor of the jelly bean and the item that results. Whistling at Blobert causes him to change back, often with a musical accompaniment similar to the main theme.",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/nes-vs-recommended-games/A%20Boy%20and%20His%20Blob%20-%20Trouble%20on%20Blobolonia%20%28USA%29.nes"
           },
           "added": 1641778471053
         },
@@ -5456,6 +5443,19 @@
           "added": 1641778471056
         },
         {
+          "title": "David Crane's A Boy and His Blob - Trouble on Blobolonia",
+          "longTitle": "David Crane's A Boy and His Blob - Trouble on Blobolonia (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/David%20Crane's%20A%20Boy%20and%20His%20Blob%20-%20Trouble%20on%20Blobolonia%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/David%20Crane's%20A%20Boy%20and%20His%20Blob%20-%20Trouble%20on%20Blobolonia%20(USA).png",
+          "description": "A Boy and His Blob: Trouble on Blobolonia is a side-scrolling platformer in which the character and his friend Blob (full name Blobert) travel together on Earth and on Blobert's home planet Blobolonia in a quest to defeat an evil emperor. Blobert can change into several different items when he is fed jelly beans. A licorice jelly bean, for instance, will change Blobert into a ladder, while a honey jelly bean will turn him into a hummingbird. Most of these transformations can be remembered mnemonically due to a correlation between the flavor of the jelly bean and the item that results. Whistling at Blobert causes him to change back, often with a musical accompaniment similar to the main theme.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nes-vs-recommended-games/A%20Boy%20and%20His%20Blob%20-%20Trouble%20on%20Blobolonia%20%28USA%29.nes"
+          },
+          "added": 1641778471053
+        },
+        {
           "title": "Defender of the Crown",
           "longTitle": "Defender of the Crown (USA)",
           "type": "nes",
@@ -5703,19 +5703,6 @@
           "added": 1641778471058
         },
         {
-          "title": "Mafat Conspiracy, The",
-          "longTitle": "Mafat Conspiracy, The (USA)",
-          "type": "nes",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Mafat%20Conspiracy%2C%20The%20(USA).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Mafat%20Conspiracy%2C%20The%20(USA).png",
-          "description": "A \"Star Wars\" satellite has been snatched out of orbit, the world edges toward nuclear oblivion, and the CIA and KGB are blaming each other. Golgo 13 is back just in time. The Mafat Conspiracy is a phantasmagora of action and interaction. Your eyeballs will stretch from their sockets as you speed through Europe in Golgo's Ferrari. Your bones will rattle as you leap across the cars on the Orient Express. And if you think you've seen bad dudes, wait till you feel the power of Duke Togo's wicked karate kick. The Mafat Conspiracy is for those who demand the very best in video games!",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/nes-vs-recommended-games/Gologo%2013%20-%20Mafat%20Conspiracy%2C%20The%20%28USA%29.nes"
-          },
-          "added": 1641778471058
-        },
-        {
           "title": "Goonies II, The",
           "longTitle": "Goonies II, The (USA)",
           "type": "nes",
@@ -5859,19 +5846,6 @@
           "added": 1641778471059
         },
         {
-          "title": "KickMaster",
-          "longTitle": "KickMaster (USA)",
-          "type": "nes",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/KickMaster%20(USA).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/KickMaster%20(USA).png",
-          "description": "The King and Queen are dead, Princess Silphee kidnapped, and the King's Knights destroyed. Belzed, an evil wizard, wants the Kingdom of Lowrel for his own, and has hidden Silphee deep in his lair. Only Thonolan remains, the youngest, most talented Kick Master ever born. If he were any less powerful, he'd never survive. He must use every ounce of his fighting strength and summon up all of his magical skill to overcome Belzed's army of fanatics. For the adventure of a lifetime - and the salvation of Lowrel - come challenge fate with Thonolan!",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/nes-vs-recommended-games/Kick%20Master%20%28USA%29.nes"
-          },
-          "added": 1641778471059
-        },
-        {
           "title": "Kickle Cubicle",
           "longTitle": "Kickle Cubicle (USA)",
           "type": "nes",
@@ -5881,6 +5855,19 @@
           "backgroundPixelated": true,
           "props": {
             "rom": "https://archive.org/download/nes-vs-recommended-games/Kickle%20Cubicle%20%28USA%29.nes"
+          },
+          "added": 1641778471059
+        },
+        {
+          "title": "KickMaster",
+          "longTitle": "KickMaster (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/KickMaster%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/KickMaster%20(USA).png",
+          "description": "The King and Queen are dead, Princess Silphee kidnapped, and the King's Knights destroyed. Belzed, an evil wizard, wants the Kingdom of Lowrel for his own, and has hidden Silphee deep in his lair. Only Thonolan remains, the youngest, most talented Kick Master ever born. If he were any less powerful, he'd never survive. He must use every ounce of his fighting strength and summon up all of his magical skill to overcome Belzed's army of fanatics. For the adventure of a lifetime - and the salvation of Lowrel - come challenge fate with Thonolan!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nes-vs-recommended-games/Kick%20Master%20%28USA%29.nes"
           },
           "added": 1641778471059
         },
@@ -5987,6 +5974,19 @@
             "rom": "https://archive.org/download/nes-vs-recommended-games/Lode%20Runner%20%28USA%29.nes"
           },
           "added": 1641778471060
+        },
+        {
+          "title": "Mafat Conspiracy, The",
+          "longTitle": "Mafat Conspiracy, The (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Mafat%20Conspiracy%2C%20The%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Mafat%20Conspiracy%2C%20The%20(USA).png",
+          "description": "A \"Star Wars\" satellite has been snatched out of orbit, the world edges toward nuclear oblivion, and the CIA and KGB are blaming each other. Golgo 13 is back just in time. The Mafat Conspiracy is a phantasmagora of action and interaction. Your eyeballs will stretch from their sockets as you speed through Europe in Golgo's Ferrari. Your bones will rattle as you leap across the cars on the Orient Express. And if you think you've seen bad dudes, wait till you feel the power of Duke Togo's wicked karate kick. The Mafat Conspiracy is for those who demand the very best in video games!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nes-vs-recommended-games/Gologo%2013%20-%20Mafat%20Conspiracy%2C%20The%20%28USA%29.nes"
+          },
+          "added": 1641778471058
         },
         {
           "title": "Magic of Scheherazade, The",
@@ -6651,19 +6651,6 @@
           "added": 1641778471065
         },
         {
-          "title": "Zoda's Revenge - StarTropics II",
-          "longTitle": "Zoda's Revenge - StarTropics II (USA)",
-          "type": "nes",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Zoda's%20Revenge%20-%20StarTropics%20II%20(USA).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Zoda's%20Revenge%20-%20StarTropics%20II%20(USA).png",
-          "description": "The story begins with Mike Jones, the protagonist, receiving a telepathic message from Mica, the princess of the Argonians, whom Mike had rescued in the previous game. She tells Mike how to solve a cipher that he and his uncle, referred to as Dr. J, found on the side of the Argonians' space pod. Mike goes to see Dr. J, and together, they solve the cipher and read it aloud. This causes Mike to be flung into the past. He arrives in the Stone Age. After helping a tribe of cave men retrieve their children from a flesh-eating wild boar, he finds an object, which Mica telepathically identifies as a Tetrad (\"Block\" in the Virtual Console version). He must travel to different eras throughout Earth's history and retrieve the rest of the Tetrads.",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/nes-vs-recommended-games/StarTropics%20II%20-%20Zoda%27s%20Revenge%20%28USA%29.nes"
-          },
-          "added": 1641778471065
-        },
-        {
           "title": "Super C",
           "longTitle": "Super C (USA)",
           "type": "nes",
@@ -7000,6 +6987,19 @@
             "rom": "https://archive.org/download/nes-vs-recommended-games/Zelda%20II%20-%20The%20Adventure%20of%20Link%20%28USA%29.nes"
           },
           "added": 1641778471068
+        },
+        {
+          "title": "Zoda's Revenge - StarTropics II",
+          "longTitle": "Zoda's Revenge - StarTropics II (USA)",
+          "type": "nes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Zoda's%20Revenge%20-%20StarTropics%20II%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Zoda's%20Revenge%20-%20StarTropics%20II%20(USA).png",
+          "description": "The story begins with Mike Jones, the protagonist, receiving a telepathic message from Mica, the princess of the Argonians, whom Mike had rescued in the previous game. She tells Mike how to solve a cipher that he and his uncle, referred to as Dr. J, found on the side of the Argonians' space pod. Mike goes to see Dr. J, and together, they solve the cipher and read it aloud. This causes Mike to be flung into the past. He arrives in the Stone Age. After helping a tribe of cave men retrieve their children from a flesh-eating wild boar, he finds an object, which Mica telepathically identifies as a Tetrad (\"Block\" in the Virtual Console version). He must travel to different eras throughout Earth's history and retrieve the rest of the Tetrads.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/nes-vs-recommended-games/StarTropics%20II%20-%20Zoda%27s%20Revenge%20%28USA%29.nes"
+          },
+          "added": 1641778471065
         }
       ],
       "description": "The Nintendo Entertainment System (NES) is an 8-bit third-generation home video game console produced by Nintendo. It was first released as the Family Computer (FC), commonly known as the Famicom, in 1983 in Japan. The NES, a redesigned version, was released in American test markets in October 1985, before becoming widely available in the rest of North America and other countries.",
@@ -7297,6 +7297,19 @@
           "added": 1641779098608
         },
         {
+          "title": "Doom Troopers - Mutant Chronicles",
+          "longTitle": "Doom Troopers - Mutant Chronicles (USA)",
+          "type": "snes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Snaps/output/Doom%20Troopers%20-%20Mutant%20Chronicles%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Titles/resized/Doom%20Troopers%20-%20Mutant%20Chronicles%20(USA).png",
+          "description": "Based on the popular role-playing and card game, Doom Troopers casts you as a fearless commando who's been commissioned to save the world from an invading force of mutants. Play as either Mitch Hunter or Max Steiner as you embark on the most important mission of your life - the complete annihilation of the Dark Legion. Work your way through eight detailed levels filled with all kinds of evil and dangerous mutants as you unload with a barrage of high-powered weapons that are readily available. If the pressure is a little too much for you to handle alone, recruit a friend and try to eliminate the Dark Legion together. The world is in grave danger and only the Doom Troopers can make things right.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/sfc-vs-recommended-games/Mutant%20Chronicles%20-%20Doom%20Troopers%20%28U%29%20%5B%21%5D.smc"
+          },
+          "added": 1641779098610
+        },
+        {
           "title": "E.V.O. - Search for Eden",
           "longTitle": "E.V.O. - Search for Eden (USA)",
           "type": "snes",
@@ -7578,19 +7591,6 @@
           "added": 1641779098609
         },
         {
-          "title": "Legend of Zelda, The - A Link to the Past",
-          "longTitle": "Legend of Zelda, The - A Link to the Past (USA)",
-          "type": "snes",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Snaps/output/Legend%20of%20Zelda%2C%20The%20-%20A%20Link%20to%20the%20Past%20(USA).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Titles/resized/Legend%20of%20Zelda%2C%20The%20-%20A%20Link%20to%20the%20Past%20(USA).png",
-          "description": "Venture back to Hyrule and an age of magic and heroes.  The predecessors of Link and Zelda face monsters on the march when a menacing magician takes over the kingdom.  Only you can prevent his evil plot from shattering the land of Hyrule.\n\nIn your quest, you'll venture into twisting mazes, dungeons, palaces and shadowy forests.  Test your mettle with mighty swords and magical weapons.  Or heft a boulder and hurl it at your enemies.  If the going gets tough, dive into a river--you can swing to escape!  Learn powerful spells, locate magical artifacts and solve the mysteries of the evil magician and the hidden realm of Hyrule.\n\nThis exciting Super NES sequel to the Legend of Zelda and The Adventure of Link uses 16-bit power to create a quest so colorful and detailed you don't just play it, you live it!",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/sfc-vs-recommended-games/Legend%20of%20Zelda%2C%20The%20-%20A%20Link%20to%20the%20Past%20%28USA%29.sfc"
-          },
-          "added": 1641779098609
-        },
-        {
           "title": "Legend of the Mystical Ninja, The",
           "longTitle": "Legend of the Mystical Ninja, The (USA)",
           "type": "snes",
@@ -7600,6 +7600,19 @@
           "backgroundPixelated": true,
           "props": {
             "rom": "https://archive.org/download/sfc-vs-recommended-games/Legend%20of%20the%20Mystical%20Ninja%2C%20The%20%28USA%29.sfc"
+          },
+          "added": 1641779098609
+        },
+        {
+          "title": "Legend of Zelda, The - A Link to the Past",
+          "longTitle": "Legend of Zelda, The - A Link to the Past (USA)",
+          "type": "snes",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Snaps/output/Legend%20of%20Zelda%2C%20The%20-%20A%20Link%20to%20the%20Past%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Titles/resized/Legend%20of%20Zelda%2C%20The%20-%20A%20Link%20to%20the%20Past%20(USA).png",
+          "description": "Venture back to Hyrule and an age of magic and heroes.  The predecessors of Link and Zelda face monsters on the march when a menacing magician takes over the kingdom.  Only you can prevent his evil plot from shattering the land of Hyrule.\n\nIn your quest, you'll venture into twisting mazes, dungeons, palaces and shadowy forests.  Test your mettle with mighty swords and magical weapons.  Or heft a boulder and hurl it at your enemies.  If the going gets tough, dive into a river--you can swing to escape!  Learn powerful spells, locate magical artifacts and solve the mysteries of the evil magician and the hidden realm of Hyrule.\n\nThis exciting Super NES sequel to the Legend of Zelda and The Adventure of Link uses 16-bit power to create a quest so colorful and detailed you don't just play it, you live it!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/sfc-vs-recommended-games/Legend%20of%20Zelda%2C%20The%20-%20A%20Link%20to%20the%20Past%20%28USA%29.sfc"
           },
           "added": 1641779098609
         },
@@ -7820,17 +7833,17 @@
           "added": 1641779098610
         },
         {
-          "title": "Doom Troopers - Mutant Chronicles",
-          "longTitle": "Doom Troopers - Mutant Chronicles (USA)",
+          "title": "New Horizons",
+          "longTitle": "New Horizons (USA)",
           "type": "snes",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Snaps/output/Doom%20Troopers%20-%20Mutant%20Chronicles%20(USA).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Titles/resized/Doom%20Troopers%20-%20Mutant%20Chronicles%20(USA).png",
-          "description": "Based on the popular role-playing and card game, Doom Troopers casts you as a fearless commando who's been commissioned to save the world from an invading force of mutants. Play as either Mitch Hunter or Max Steiner as you embark on the most important mission of your life - the complete annihilation of the Dark Legion. Work your way through eight detailed levels filled with all kinds of evil and dangerous mutants as you unload with a barrage of high-powered weapons that are readily available. If the pressure is a little too much for you to handle alone, recruit a friend and try to eliminate the Dark Legion together. The world is in grave danger and only the Doom Troopers can make things right.",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Snaps/output/New%20Horizons%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Titles/resized/New%20Horizons%20(USA).png",
+          "description": "In the first Uncharted Waters game, it was the 15th century and the New World was discovered. Now in New Horizons, it is the early 16th century and the age of exploration and sea trade is underway. Players choose from any one of six adventurers (scenarios), each with their own distinctive but intertwining plot, to embark on a quest of sailing, seamanship and exploration. The six characters are:Joao Franco is the son of Duke Leon Franco, the hero of the first Uncharted Waters game and an influential man in Portugal. His father wants to make him into a strong man and so decides to send him out to sea. Young Joao is tasked with learning the skills of the sailor (he is the only character who starts at level one) and embarking on a quest of discovery; reaching the far east and eventually looking for the secret of Atlantis.\n\nCatalina Erantzo is a Spanish naval officer who believes her beloved and her brother were both murdered by the Portuguese armada. Vowing revenge she turns to a life of piracy and soon becomes a red haired scourge of the seas.\n\nPietro Conti is a indebted man, having inherited the financial woes of the Conti family. When the Duchess Franco hires him to spy on her son, he accepts the job and obtains a ship. Pietro hopes to use these resources to seek out valuable treasure and clear up his family's debt.\n\nErnst Von Bohr is a geographer who is teaching classes in Holland. But he yearns to leave the classroom and sail the high seas, living a life of adventure that he has only read about in books. When his friend, Mercator offers to finance his initial voyage in exchange for cartography information about the world, Ernst is given the opportunity to live out his dream.\n\nAli Vezas is a poor orphaned child living in Istanbul and serving others. He dreams of becoming his own master and making his own fortune across foreign lands. A twist of fate aides in providing him with small loans, with which he is able to afford his first ship and sail out with a cargo hold full of goods...\n\nOtto Baynes styles himself a Royal Knight of the British Empire, in the service of his majesty the king. Promoted to Admiral of the British fleet, the kingdom is worried about the increased naval power of Spanish fleets. Otto is given a letter of marque by the king and ordered to terrorize the Spanish Fleet. Equipping himself simply at first, Otto strives to become a great Privateer in the name of King and Country.Regardless of the character chosen, Uncharted Waters: New Horizons is a top-down sailing simulation. At sea, players control the direction of their ship, where speed is affected by the number/health of the crew, the wind and the currents. Players can navigate anywhere there is water (though some ships are not ocean worthy) and discover interesting landmarks and new ports. Upon landing at a port, the view is also top-down and the player can enter different buildings, each with unique services and goods. These include: The Inn, the Item Shop, The Shipyard, The Tavern, The Castle, The Guild Hall, The Church, The Merchant and the Harbor. It's up to the player to earn enough gold to keep the crew fed and financed and keep the fleet repaired. Primary methods of earning money are through sea trade, accepting jobs from the guild, gambling and battle with other ships.\n\nDuring naval combat, the game becomes a turn-based top-down strategy game, with the player moving ships in order to obtain trajectories needed to fire cannons at enemy ships, or run alongside enemy vessels in order to board them. If the player's flagship attacks the flagship of the enemy fleet, they can challenge the opponent to a duel. If accepted, the game changes to a side-view of the two captains engaged in a fight. During this sequence, the player can only choose which fighting maneuver (strike, thrust, parry, lash) they wish to engage in.",
           "backgroundPixelated": true,
           "props": {
-            "rom": "https://archive.org/download/sfc-vs-recommended-games/Mutant%20Chronicles%20-%20Doom%20Troopers%20%28U%29%20%5B%21%5D.smc"
+            "rom": "https://archive.org/download/sfc-vs-recommended-games/Uncharted%20Waters%20-%20New%20Horizons%20%28U%29.smc"
           },
-          "added": 1641779098610
+          "added": 1641779098613
         },
         {
           "title": "Ninjawarriors",
@@ -8362,19 +8375,6 @@
           "backgroundPixelated": true,
           "props": {
             "rom": "https://archive.org/download/sfc-vs-recommended-games/U.N.%20Squadron%20%28USA%29.sfc"
-          },
-          "added": 1641779098613
-        },
-        {
-          "title": "New Horizons",
-          "longTitle": "New Horizons (USA)",
-          "type": "snes",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Snaps/output/New%20Horizons%20(USA).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-snes-images/master/Named_Titles/resized/New%20Horizons%20(USA).png",
-          "description": "In the first Uncharted Waters game, it was the 15th century and the New World was discovered. Now in New Horizons, it is the early 16th century and the age of exploration and sea trade is underway. Players choose from any one of six adventurers (scenarios), each with their own distinctive but intertwining plot, to embark on a quest of sailing, seamanship and exploration. The six characters are:Joao Franco is the son of Duke Leon Franco, the hero of the first Uncharted Waters game and an influential man in Portugal. His father wants to make him into a strong man and so decides to send him out to sea. Young Joao is tasked with learning the skills of the sailor (he is the only character who starts at level one) and embarking on a quest of discovery; reaching the far east and eventually looking for the secret of Atlantis.\n\nCatalina Erantzo is a Spanish naval officer who believes her beloved and her brother were both murdered by the Portuguese armada. Vowing revenge she turns to a life of piracy and soon becomes a red haired scourge of the seas.\n\nPietro Conti is a indebted man, having inherited the financial woes of the Conti family. When the Duchess Franco hires him to spy on her son, he accepts the job and obtains a ship. Pietro hopes to use these resources to seek out valuable treasure and clear up his family's debt.\n\nErnst Von Bohr is a geographer who is teaching classes in Holland. But he yearns to leave the classroom and sail the high seas, living a life of adventure that he has only read about in books. When his friend, Mercator offers to finance his initial voyage in exchange for cartography information about the world, Ernst is given the opportunity to live out his dream.\n\nAli Vezas is a poor orphaned child living in Istanbul and serving others. He dreams of becoming his own master and making his own fortune across foreign lands. A twist of fate aides in providing him with small loans, with which he is able to afford his first ship and sail out with a cargo hold full of goods...\n\nOtto Baynes styles himself a Royal Knight of the British Empire, in the service of his majesty the king. Promoted to Admiral of the British fleet, the kingdom is worried about the increased naval power of Spanish fleets. Otto is given a letter of marque by the king and ordered to terrorize the Spanish Fleet. Equipping himself simply at first, Otto strives to become a great Privateer in the name of King and Country.Regardless of the character chosen, Uncharted Waters: New Horizons is a top-down sailing simulation. At sea, players control the direction of their ship, where speed is affected by the number/health of the crew, the wind and the currents. Players can navigate anywhere there is water (though some ships are not ocean worthy) and discover interesting landmarks and new ports. Upon landing at a port, the view is also top-down and the player can enter different buildings, each with unique services and goods. These include: The Inn, the Item Shop, The Shipyard, The Tavern, The Castle, The Guild Hall, The Church, The Merchant and the Harbor. It's up to the player to earn enough gold to keep the crew fed and financed and keep the fleet repaired. Primary methods of earning money are through sea trade, accepting jobs from the guild, gambling and battle with other ships.\n\nDuring naval combat, the game becomes a turn-based top-down strategy game, with the player moving ships in order to obtain trajectories needed to fire cannons at enemy ships, or run alongside enemy vessels in order to board them. If the player's flagship attacks the flagship of the enemy fleet, they can challenge the opponent to a duel. If accepted, the game changes to a side-view of the two captains engaged in a fight. During this sequence, the player can only choose which fighting maneuver (strike, thrust, parry, lash) they wish to engage in.",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/sfc-vs-recommended-games/Uncharted%20Waters%20-%20New%20Horizons%20%28U%29.smc"
           },
           "added": 1641779098613
         },
@@ -9046,19 +9046,6 @@
           "added": 1641772268657
         },
         {
-          "title": "Legend of Zelda, The - Link's Awakening",
-          "longTitle": "Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev 2)",
-          "type": "gb",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gb-images/master/Named_Snaps/output/Legend%20of%20Zelda%2C%20The%20-%20Link's%20Awakening%20(USA%2C%20Europe)%20(Rev%202).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gb-images/master/Named_Titles/resized/Legend%20of%20Zelda%2C%20The%20-%20Link's%20Awakening%20(USA%2C%20Europe)%20(Rev%202).png",
-          "description": " The fourth game in the Zelda series although it does not take place in Hyrule. After being attacked at sea, Link's ship sinks, and he finds himself stranded on Koholint Island. He awakens to see a beautiful woman looking down at him. He soon learns the island has a giant egg on top of a mountain that the Wind Fish inhabits deep inside. Link is told to \"awaken the wind fish and all will be answered,\" so Link sets out on another quest.  Play is similar to the SNES game with a top down perspective. Link must go onto each of the 7 temples to retrieve a musical instrument that will help awaken the Wind Fish. Along the way, Link must search the land and uncover hidden treasures and items that will allow him to progress on his journey. With new items, he can open up new passages that will take him even farther on his quest and allow him to enter new areas that were inaccessible before. Link can attack his enemies with his sword or use items he finds during his quest to help him. Guarding every instrument is a temple boss, which must be defeated if Link is to awaken the Wind Fish.\n",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/gb-vs-recommended-games/Legend%20of%20Zelda%2C%20The%20-%20Link%27s%20Awakening%20%28USA%2C%20Europe%29%20%28Rev%202%29.gb"
-          },
-          "added": 1641772268657
-        },
-        {
           "title": "Legend of the River King GB",
           "longTitle": "Legend of the River King GB (USA) (SGB Enhanced)",
           "type": "gb",
@@ -9068,6 +9055,19 @@
           "backgroundPixelated": true,
           "props": {
             "rom": "https://archive.org/download/gb-vs-recommended-games/Legend%20of%20the%20River%20King%20GB%20%28USA%29%20%28SGB%20Enhanced%29.gb"
+          },
+          "added": 1641772268657
+        },
+        {
+          "title": "Legend of Zelda, The - Link's Awakening",
+          "longTitle": "Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev 2)",
+          "type": "gb",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gb-images/master/Named_Snaps/output/Legend%20of%20Zelda%2C%20The%20-%20Link's%20Awakening%20(USA%2C%20Europe)%20(Rev%202).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gb-images/master/Named_Titles/resized/Legend%20of%20Zelda%2C%20The%20-%20Link's%20Awakening%20(USA%2C%20Europe)%20(Rev%202).png",
+          "description": " The fourth game in the Zelda series although it does not take place in Hyrule. After being attacked at sea, Link's ship sinks, and he finds himself stranded on Koholint Island. He awakens to see a beautiful woman looking down at him. He soon learns the island has a giant egg on top of a mountain that the Wind Fish inhabits deep inside. Link is told to \"awaken the wind fish and all will be answered,\" so Link sets out on another quest.  Play is similar to the SNES game with a top down perspective. Link must go onto each of the 7 temples to retrieve a musical instrument that will help awaken the Wind Fish. Along the way, Link must search the land and uncover hidden treasures and items that will allow him to progress on his journey. With new items, he can open up new passages that will take him even farther on his quest and allow him to enter new areas that were inaccessible before. Link can attack his enemies with his sword or use items he finds during his quest to help him. Guarding every instrument is a temple boss, which must be defeated if Link is to awaken the Wind Fish.\n",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/gb-vs-recommended-games/Legend%20of%20Zelda%2C%20The%20-%20Link%27s%20Awakening%20%28USA%2C%20Europe%29%20%28Rev%202%29.gb"
           },
           "added": 1641772268657
         },
@@ -9629,18 +9629,6 @@
           "added": 1641775828692
         },
         {
-          "title": "John Romero's Daikatana",
-          "longTitle": "John Romero's Daikatana (Europe) (En,Fr,It)",
-          "type": "gbc",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gbc-images/master/Named_Snaps/output/John%20Romero's%20Daikatana%20(Europe)%20(En%2CFr%2CIt).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gbc-images/master/Named_Titles/resized/John%20Romero's%20Daikatana%20(Europe)%20(En%2CFr%2CIt).png",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/gbc-vs-recommended-games/Daikatana%20%28Europe%29%20%28En%2CFr%2CIt%29.gbc"
-          },
-          "added": 1641775828692
-        },
-        {
           "title": "Deja Vu I & II - The Casebooks of Ace Harding",
           "longTitle": "Deja Vu I & II - The Casebooks of Ace Harding (USA)",
           "type": "gbc",
@@ -9771,18 +9759,18 @@
         },
         {
           "props": {
-            "rom": "https://archive.org/download/gbc-vs-recommended-games/GameBoy%20Wars%203%20%28english%20translation%29.gbc"
-          },
-          "type": "gbc",
-          "title": "GameBoy Wars 3 (english translation)",
-          "added": 1641775828694
-        },
-        {
-          "props": {
             "rom": "https://archive.org/download/gbc-vs-recommended-games/Gameboy%20Wars%202%20%28J%29%20%5BC%5D%5BT%2BEng1.02_TransBRC%5D.gbc"
           },
           "type": "gbc",
           "title": "Gameboy Wars 2 (J) [C][T+Eng1.02_TransBRC]",
+          "added": 1641775828694
+        },
+        {
+          "props": {
+            "rom": "https://archive.org/download/gbc-vs-recommended-games/GameBoy%20Wars%203%20%28english%20translation%29.gbc"
+          },
+          "type": "gbc",
+          "title": "GameBoy Wars 3 (english translation)",
           "added": 1641775828694
         },
         {
@@ -9866,6 +9854,18 @@
           "added": 1641775828694
         },
         {
+          "title": "John Romero's Daikatana",
+          "longTitle": "John Romero's Daikatana (Europe) (En,Fr,It)",
+          "type": "gbc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gbc-images/master/Named_Snaps/output/John%20Romero's%20Daikatana%20(Europe)%20(En%2CFr%2CIt).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gbc-images/master/Named_Titles/resized/John%20Romero's%20Daikatana%20(Europe)%20(En%2CFr%2CIt).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/gbc-vs-recommended-games/Daikatana%20%28Europe%29%20%28En%2CFr%2CIt%29.gbc"
+          },
+          "added": 1641775828692
+        },
+        {
           "title": "Konami GB Collection Vol.1",
           "longTitle": "Konami GB Collection Vol.1 (Europe) (GB Compatible)",
           "type": "gbc",
@@ -9918,6 +9918,19 @@
           "added": 1641775828695
         },
         {
+          "title": "Legend of the River King 2",
+          "longTitle": "Legend of the River King 2 (USA) (SGB Enhanced) (GB Compatible)",
+          "type": "gbc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gbc-images/master/Named_Snaps/output/Legend%20of%20the%20River%20King%202%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gbc-images/master/Named_Titles/resized/Legend%20of%20the%20River%20King%202%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible).png",
+          "description": "More fishing adventures on the Game Boy. This time, there are plenty more fish and other river creatures that you can catch and collect, including 60 types of fish, shellfish, plants and insects. Other animals living around the river can smell your catch and may attack you.\n\nA new element in the game is the ability to trade your fish, etc. with other players. Link up with another friend to trade your catch, either in Legend of the River King 2 or another Natsume title, Harvest Moon.\n",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/gbc-vs-recommended-games/Legend%20of%20the%20River%20King%202%20%28USA%29%20%28SGB%20Enhanced%29.gbc"
+          },
+          "added": 1641775828695
+        },
+        {
           "title": "Legend of Zelda, The - Link's Awakening DX",
           "longTitle": "Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB Enhanced) (GB Compatible)",
           "type": "gbc",
@@ -9953,19 +9966,6 @@
           "backgroundPixelated": true,
           "props": {
             "rom": "https://archive.org/download/gbc-vs-recommended-games/Legend%20of%20Zelda%2C%20The%20-%20Oracle%20of%20Seasons%20%28USA%29.gbc"
-          },
-          "added": 1641775828695
-        },
-        {
-          "title": "Legend of the River King 2",
-          "longTitle": "Legend of the River King 2 (USA) (SGB Enhanced) (GB Compatible)",
-          "type": "gbc",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gbc-images/master/Named_Snaps/output/Legend%20of%20the%20River%20King%202%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gbc-images/master/Named_Titles/resized/Legend%20of%20the%20River%20King%202%20(USA)%20(SGB%20Enhanced)%20(GB%20Compatible).png",
-          "description": "More fishing adventures on the Game Boy. This time, there are plenty more fish and other river creatures that you can catch and collect, including 60 types of fish, shellfish, plants and insects. Other animals living around the river can smell your catch and may attack you.\n\nA new element in the game is the ability to trade your fish, etc. with other players. Link up with another friend to trade your catch, either in Legend of the River King 2 or another Natsume title, Harvest Moon.\n",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/gbc-vs-recommended-games/Legend%20of%20the%20River%20King%202%20%28USA%29%20%28SGB%20Enhanced%29.gbc"
           },
           "added": 1641775828695
         },
@@ -10307,18 +10307,6 @@
           "added": 1641775828698
         },
         {
-          "title": "SD Hiryuu no Ken EX",
-          "longTitle": "SD Hiryuu no Ken EX (Japan) (SGB Enhanced) (GB Compatible)",
-          "type": "gbc",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gbc-images/master/Named_Snaps/output/SD%20Hiryuu%20no%20Ken%20EX%20(Japan)%20(SGB%20Enhanced)%20(GB%20Compatible).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gbc-images/master/Named_Titles/resized/SD%20Hiryuu%20no%20Ken%20EX%20(Japan)%20(SGB%20Enhanced)%20(GB%20Compatible).png",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/gbc-vs-recommended-games/SD%20Hiryuu%20no%20Ken%20EX%20%28Japan%29%20%28SGB%20Enhanced%29.gbc"
-          },
-          "added": 1641775828698
-        },
-        {
           "title": "Samurai Kid",
           "longTitle": "Samurai Kid (Japan)",
           "type": "gbc",
@@ -10327,6 +10315,18 @@
           "backgroundPixelated": true,
           "props": {
             "rom": "https://archive.org/download/gbc-vs-recommended-games/Samurai%20Kid%20%28Japan%29.gbc"
+          },
+          "added": 1641775828698
+        },
+        {
+          "title": "SD Hiryuu no Ken EX",
+          "longTitle": "SD Hiryuu no Ken EX (Japan) (SGB Enhanced) (GB Compatible)",
+          "type": "gbc",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gbc-images/master/Named_Snaps/output/SD%20Hiryuu%20no%20Ken%20EX%20(Japan)%20(SGB%20Enhanced)%20(GB%20Compatible).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gbc-images/master/Named_Titles/resized/SD%20Hiryuu%20no%20Ken%20EX%20(Japan)%20(SGB%20Enhanced)%20(GB%20Compatible).png",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/gbc-vs-recommended-games/SD%20Hiryuu%20no%20Ken%20EX%20%28Japan%29%20%28SGB%20Enhanced%29.gbc"
           },
           "added": 1641775828698
         },
@@ -10757,32 +10757,6 @@
           "added": 1641775289721
         },
         {
-          "title": "CT Special Forces - Bioterror",
-          "longTitle": "CT Special Forces - Bioterror (Europe) (En,Fr,De,Es,It,Nl)",
-          "type": "gba",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/CT%20Special%20Forces%20-%20Bioterror%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Titles/resized/CT%20Special%20Forces%20-%20Bioterror%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl).png",
-          "description": "CT Special Forces is a side scrolling platform shooter that has a superficial similarity to the games of the Metal Slug series. The player controls an operative of a counter-terrorist force on a mission around the globe to stop terrorist activity and arrest its leaders. The digital pad moves the character, while the B button shoots the weapon and the A button makes the character jump. The character can't shoot downwards. The L trigger cycles through the inventory (displayed on the top-left corner of the screen) and the R trigger throws grenades (when they are available). By selecting an ammunition type, the character uses the corresponding weapon (gas canisters for the flamethrower, machine gun pents for that weapon, etc). The default rifle has an infinite number of bullets. Other items include a grappling rope and a pair of handcuffs to arrest surrended enemies. Ammunition and health packs are scattered throughout the levels, as are proximity mines and assorted enemies.\n\nThe regular gameplay is occasionally broke by mini-games and entirely different sections: when the character collides with a reticule placard, the game switches to a first-person shooting gallery where the player has to shoot down a certain number of terrorists and rescue the hostages. When colliding with a parachute, two gauges with a red line on the middle appear on the screen. The one on the left measures the position of the falling character and the one on the right measures height. The character must be guided to the right spot, and the shooting button must be pressed when both gauges reach the red bar. Some mission stages change the game to a vertical shooter that recalls Tiger-Heli and similar games, where the player controls a helicopter viewed from the top.\n\nThe game has 4 missions, each with its own theme: snow mountain, desert, jungle and a city. A password system is provided  (the password is displayed after the completion of every mission).\n",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/gba-vs-recommended-games/CT%20Special%20Forces%20-%20Bioterror%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.gba"
-          },
-          "added": 1641775289721
-        },
-        {
-          "title": "CT Special Forces 2 - Back in the Trenches",
-          "longTitle": "CT Special Forces 2 - Back in the Trenches (USA) (En,Fr,De,Es,It,Nl)",
-          "type": "gba",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/CT%20Special%20Forces%202%20-%20Back%20in%20the%20Trenches%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Titles/resized/CT%20Special%20Forces%202%20-%20Back%20in%20the%20Trenches%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl).png",
-          "description": "CT Special Forces: Back to Hell is the sequel to CT Special Forces and the story picks up right where the last game ended. Having destroyed the terrorist group Network the CT Special Forces are going back to do training missions, but more and more reports about new terror threats keep popping up. Could this be a new terrorist organization, or maybe Network is back for a second round? It's up to the CT Special Forces to stop the treat of terrorism once again!\n\nThe game plays in 5 different game modes. The majority is made up of side scrolling platform action, somewhat similar to the Metal Slug games, where you pick up various weapons, grenades and even a tank to squash the terrorist threat. Every now and then you'll come across a wooden sign with a cross-hair on it. Doing so will change the game into first person view, where you have to shoot terrorists and save hostages. Sometimes you'll find a parachute pack, and you'll have to play a mini game where you have to make two meters align to make a drop successfully with your parachute.\n\nThere are also two kinds of helicopter stages. One is a top down shoot'em up, where you have to bomb land targets and gun down enemy helicopters. The other one is a side scrolling chopper rescue game, where you have to save hostages and bring them to your base, while gunning down enemies across the stage.\n",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/gba-vs-recommended-games/CT%20Special%20Forces%202%20-%20Back%20in%20the%20Trenches%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.gba"
-          },
-          "added": 1641775289722
-        },
-        {
           "title": "Car Battler Joe",
           "longTitle": "Car Battler Joe (USA)",
           "type": "gba",
@@ -10874,17 +10848,30 @@
           "added": 1641775289723
         },
         {
-          "title": "DK - King of Swing",
-          "longTitle": "DK - King of Swing (USA)",
+          "title": "CT Special Forces - Bioterror",
+          "longTitle": "CT Special Forces - Bioterror (Europe) (En,Fr,De,Es,It,Nl)",
           "type": "gba",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/DK%20-%20King%20of%20Swing%20(USA).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Titles/resized/DK%20-%20King%20of%20Swing%20(USA).png",
-          "description": "Cranky is hosting the Jungle Jam contest. Before the contest can begin, King K. Rool steals the medallions. It's up to Donkey Kong to retrieve the medals. Players use the L and R Buttons to move left and right and to rotate counter-clockwise and clockwise on pegs. Most of the action takes place on these pegs. DK attacks by either charging up by holding on to two pegs at once or throwing things such as rocks or bombs.\n",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/CT%20Special%20Forces%20-%20Bioterror%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Titles/resized/CT%20Special%20Forces%20-%20Bioterror%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl).png",
+          "description": "CT Special Forces is a side scrolling platform shooter that has a superficial similarity to the games of the Metal Slug series. The player controls an operative of a counter-terrorist force on a mission around the globe to stop terrorist activity and arrest its leaders. The digital pad moves the character, while the B button shoots the weapon and the A button makes the character jump. The character can't shoot downwards. The L trigger cycles through the inventory (displayed on the top-left corner of the screen) and the R trigger throws grenades (when they are available). By selecting an ammunition type, the character uses the corresponding weapon (gas canisters for the flamethrower, machine gun pents for that weapon, etc). The default rifle has an infinite number of bullets. Other items include a grappling rope and a pair of handcuffs to arrest surrended enemies. Ammunition and health packs are scattered throughout the levels, as are proximity mines and assorted enemies.\n\nThe regular gameplay is occasionally broke by mini-games and entirely different sections: when the character collides with a reticule placard, the game switches to a first-person shooting gallery where the player has to shoot down a certain number of terrorists and rescue the hostages. When colliding with a parachute, two gauges with a red line on the middle appear on the screen. The one on the left measures the position of the falling character and the one on the right measures height. The character must be guided to the right spot, and the shooting button must be pressed when both gauges reach the red bar. Some mission stages change the game to a vertical shooter that recalls Tiger-Heli and similar games, where the player controls a helicopter viewed from the top.\n\nThe game has 4 missions, each with its own theme: snow mountain, desert, jungle and a city. A password system is provided  (the password is displayed after the completion of every mission).\n",
           "backgroundPixelated": true,
           "props": {
-            "rom": "https://archive.org/download/gba-vs-recommended-games/DK%20-%20King%20of%20Swing%20%28USA%29.gba"
+            "rom": "https://archive.org/download/gba-vs-recommended-games/CT%20Special%20Forces%20-%20Bioterror%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.gba"
           },
-          "added": 1641775289723
+          "added": 1641775289721
+        },
+        {
+          "title": "CT Special Forces 2 - Back in the Trenches",
+          "longTitle": "CT Special Forces 2 - Back in the Trenches (USA) (En,Fr,De,Es,It,Nl)",
+          "type": "gba",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/CT%20Special%20Forces%202%20-%20Back%20in%20the%20Trenches%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Titles/resized/CT%20Special%20Forces%202%20-%20Back%20in%20the%20Trenches%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl).png",
+          "description": "CT Special Forces: Back to Hell is the sequel to CT Special Forces and the story picks up right where the last game ended. Having destroyed the terrorist group Network the CT Special Forces are going back to do training missions, but more and more reports about new terror threats keep popping up. Could this be a new terrorist organization, or maybe Network is back for a second round? It's up to the CT Special Forces to stop the treat of terrorism once again!\n\nThe game plays in 5 different game modes. The majority is made up of side scrolling platform action, somewhat similar to the Metal Slug games, where you pick up various weapons, grenades and even a tank to squash the terrorist threat. Every now and then you'll come across a wooden sign with a cross-hair on it. Doing so will change the game into first person view, where you have to shoot terrorists and save hostages. Sometimes you'll find a parachute pack, and you'll have to play a mini game where you have to make two meters align to make a drop successfully with your parachute.\n\nThere are also two kinds of helicopter stages. One is a top down shoot'em up, where you have to bomb land targets and gun down enemy helicopters. The other one is a side scrolling chopper rescue game, where you have to save hostages and bring them to your base, while gunning down enemies across the stage.\n",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/gba-vs-recommended-games/CT%20Special%20Forces%202%20-%20Back%20in%20the%20Trenches%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.gba"
+          },
+          "added": 1641775289722
         },
         {
           "title": "DemiKids - Dark Version",
@@ -10922,6 +10909,19 @@
           "backgroundPixelated": true,
           "props": {
             "rom": "https://archive.org/download/gba-vs-recommended-games/Digimon%20-%20Battle%20Spirit%202%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.gba"
+          },
+          "added": 1641775289723
+        },
+        {
+          "title": "DK - King of Swing",
+          "longTitle": "DK - King of Swing (USA)",
+          "type": "gba",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/DK%20-%20King%20of%20Swing%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Titles/resized/DK%20-%20King%20of%20Swing%20(USA).png",
+          "description": "Cranky is hosting the Jungle Jam contest. Before the contest can begin, King K. Rool steals the medallions. It's up to Donkey Kong to retrieve the medals. Players use the L and R Buttons to move left and right and to rotate counter-clockwise and clockwise on pegs. Most of the action takes place on these pegs. DK attacks by either charging up by holding on to two pegs at once or throwing things such as rocks or bombs.\n",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/gba-vs-recommended-games/DK%20-%20King%20of%20Swing%20%28USA%29.gba"
           },
           "added": 1641775289723
         },
@@ -11406,19 +11406,6 @@
           "added": 1641775289730
         },
         {
-          "title": "Kirby & The Amazing Mirror",
-          "longTitle": "Kirby & The Amazing Mirror (USA)",
-          "type": "gba",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/Kirby%20%26%20The%20Amazing%20Mirror%20(USA).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Titles/resized/Kirby%20%26%20The%20Amazing%20Mirror%20(USA).png",
-          "description": "Kirby stars in his first four-player simultaneous adventure!  There's trouble in neighboring Mirror World, but when Kirby goes off to help, he's attacked by a shadowy Meta Knight and split into four colored versions of himself!  The four Kirbies set off for Mirror World on an exciting new adventure!\n\nKirby & The Amazing Mirror is set out in a Metroid-style manner.  The game features one sprawling overworld that players gradually uncover as they progress through the game.  It's also possible to discover hidden treasure chests that show the player the overworld layouts, life bar extensions, different colors for Kirby, and unlockable music and sound effects.\n\nAmazing Mirror uses the familiar 'suck-in and copy' mechanic of other Kirby games, but the addition of having four players able to co-operate simultaneously can make the game easier or more difficult - depending on the situation.  There are also three mini-games to play via the Game Boy Advance Single-Cart Multiplayer feature.\n",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/gba-vs-recommended-games/Kirby%20%26%20The%20Amazing%20Mirror%20%28USA%29.gba"
-          },
-          "added": 1641775289730
-        },
-        {
           "title": "Kirby - Nightmare in Dream Land",
           "longTitle": "Kirby - Nightmare in Dream Land (USA)",
           "type": "gba",
@@ -11428,6 +11415,19 @@
           "backgroundPixelated": true,
           "props": {
             "rom": "https://archive.org/download/gba-vs-recommended-games/Kirby%20-%20Nightmare%20in%20Dream%20Land%20%28USA%29.gba"
+          },
+          "added": 1641775289730
+        },
+        {
+          "title": "Kirby & The Amazing Mirror",
+          "longTitle": "Kirby & The Amazing Mirror (USA)",
+          "type": "gba",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/Kirby%20%26%20The%20Amazing%20Mirror%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Titles/resized/Kirby%20%26%20The%20Amazing%20Mirror%20(USA).png",
+          "description": "Kirby stars in his first four-player simultaneous adventure!  There's trouble in neighboring Mirror World, but when Kirby goes off to help, he's attacked by a shadowy Meta Knight and split into four colored versions of himself!  The four Kirbies set off for Mirror World on an exciting new adventure!\n\nKirby & The Amazing Mirror is set out in a Metroid-style manner.  The game features one sprawling overworld that players gradually uncover as they progress through the game.  It's also possible to discover hidden treasure chests that show the player the overworld layouts, life bar extensions, different colors for Kirby, and unlockable music and sound effects.\n\nAmazing Mirror uses the familiar 'suck-in and copy' mechanic of other Kirby games, but the addition of having four players able to co-operate simultaneously can make the game easier or more difficult - depending on the situation.  There are also three mini-games to play via the Game Boy Advance Single-Cart Multiplayer feature.\n",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/gba-vs-recommended-games/Kirby%20%26%20The%20Amazing%20Mirror%20%28USA%29.gba"
           },
           "added": 1641775289730
         },
@@ -12550,19 +12550,6 @@
           "added": 1641775289745
         },
         {
-          "title": "TMNT",
-          "longTitle": "TMNT (USA) (En,Fr,Es)",
-          "type": "gba",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/TMNT%20(USA)%20(En%2CFr%2CEs).png",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Titles/resized/TMNT%20(USA)%20(En%2CFr%2CEs).png",
-          "description": "Over the top Ninja Action!\n\nUse acrobatic moves and extreme fighting skills to unite the Turtles and save the City. Use special weapons, such as deadly ninja starts, and unique tag-team moves. Play the famous TMNT characters, each with his own fighting style. Take on the big bosses from the TMNT movie.",
-          "backgroundPixelated": true,
-          "props": {
-            "rom": "https://archive.org/download/gba-vs-recommended-games/TMNT%20%28USA%29%20%28En%2CFr%2CEs%29.gba"
-          },
-          "added": 1641775289745
-        },
-        {
           "title": "Tactics Ogre - The Knight of Lodis",
           "longTitle": "Tactics Ogre - The Knight of Lodis (USA)",
           "type": "gba",
@@ -12574,6 +12561,19 @@
             "rom": "https://archive.org/download/gba-vs-recommended-games/Tactics%20Ogre%20-%20The%20Knight%20of%20Lodis%20%28USA%29.gba"
           },
           "added": 1641775289746
+        },
+        {
+          "title": "TMNT",
+          "longTitle": "TMNT (USA) (En,Fr,Es)",
+          "type": "gba",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/TMNT%20(USA)%20(En%2CFr%2CEs).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Titles/resized/TMNT%20(USA)%20(En%2CFr%2CEs).png",
+          "description": "Over the top Ninja Action!\n\nUse acrobatic moves and extreme fighting skills to unite the Turtles and save the City. Use special weapons, such as deadly ninja starts, and unique tag-team moves. Play the famous TMNT characters, each with his own fighting style. Take on the big bosses from the TMNT movie.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://archive.org/download/gba-vs-recommended-games/TMNT%20%28USA%29%20%28En%2CFr%2CEs%29.gba"
+          },
+          "added": 1641775289745
         },
         {
           "title": "Tony Hawk's Pro Skater 2",
@@ -12685,11 +12685,436 @@
       "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Nintendo-Game-Boy-Advance-Milky-Blue-FL.jpg/1920px-Nintendo-Game-Boy-Advance-Milky-Blue-FL.jpg",
       "description": "The Game Boy Advance (GBA) is a 32-bit handheld game console developed, manufactured and marketed by Nintendo as the successor to the Game Boy Color. It was released in Japan on March 21, 2001, in North America on June 11, 2001, in the PAL region on June 22, 2001, and in mainland China as iQue Game Boy Advance on June 8, 2004. The GBA is part of the sixth generation of video game consoles. The original model does not have an illuminated screen; Nintendo addressed that with the release of a redesigned model with a frontlit screen, the Game Boy Advance SP, in 2003. A newer revision of the redesign was released in 2005, with a backlit screen. Around the same time, the final redesign, the Game Boy Micro, was released in September 2005.",
       "background": "https://github.com/CkauNui/ckau-book/raw/master/_inc/art/gba.jpg"
+    },
+    {
+      "title": "N64",
+      "longTitle": "Nintendo 64",
+      "description": "The Nintendo 64 (N64) is a home video game console developed and marketed by Nintendo. It was released in Japan on June 23, 1996, in North America on September 29, 1996, and in Europe and Australia on March 1, 1997. The successor to the Super Nintendo Entertainment System, it was the last major home console to use ROM cartridges as its primary storage format. As a fifth-generation console, the Nintendo 64 primarily competed with Sony's PlayStation and the Sega Saturn.",
+      "thumbnail": "https://www.dropbox.com/scl/fi/ov3sqa5mjlwm9l2mhv87y/nintendo3.jpg?rlkey=1ye69h7d4n6ef2wavw29tmze7&dl=0",
+      "items": [
+        {
+          "title": "Banjo-Kazooie",
+          "longTitle": "Banjo-Kazooie (USA) (Rev 1)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Banjo-Kazooie%20(USA)%20(Rev%201).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Banjo-Kazooie%20(USA)%20(Rev%201).png",
+          "description": "In Banjo-Kazooie a bear named Banjo and a bird named Kazooie live on Spiral Mountain. One day Gruntilda the witch kidnaps Banjo's sister Tooty, to steal her beauty via a transformation device. Banjo and Kazooie set out on a dangerous adventure to rescue Tooty.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/pe8mabxvziy3qfxbuyuc5/Banjo-Kazooie-USA-Rev-1.z64?rlkey=q0r3j2dl9fv1z6b5dz4njaktb&dl=1"
+          },
+          "added": 1742766765814
+        },
+        {
+          "title": "Banjo-Tooie",
+          "longTitle": "Banjo-Tooie (USA)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Banjo-Tooie%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Banjo-Tooie%20(USA).png",
+          "description": "Two years after Banjo & Kazooie rescued Banjo's sister Tooty, the antagonist Gruntilda Winkybunion and her sisters, Mingella and Blobbelda, are planning to restore Gruntilda's body to its original form. Banjo and Kazooie must stop them before it is too late.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/effnhrwf3ohjlup17cig4/Banjo-Tooie-USA.z64?rlkey=ulcznm1z0jzgw9rulmuo6zzr2&dl=1"
+          },
+          "added": 1742766765814
+        },
+        {
+          "title": "BattleTanx - Global Assault",
+          "longTitle": "BattleTanx - Global Assault (USA)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/BattleTanx%20-%20Global%20Assault%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/BattleTanx%20-%20Global%20Assault%20(USA).png",
+          "description": "On January 13, 2006, a Queenlord, Cassandra, is spying on Griffin Spade's family, telling her troops to kidnap Griffin's son Brandon and kill everyone else. Griffin and his army manage to push back the invaders, but Cassandra soon turns the tables by mind-controlling Griffin's own army. Griffin and Madison manage to escape San Francisco and begin chasing Cassandra across the United States, eventually cornering her in Washington, D.C.. Cassandra, however, escapes with Brandon to Great Britain; Griffin and Madison follow. They build a new army in Europe, and chase Cassandra through England, France and Germany. While in Paris, they discover Cassandra released the virus in 2001 to kill every female on Earth who didn't have the power of the Edge.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/m813nzo3s0154k3ycfckr/BattleTanx-Global-Assault-USA.z64?rlkey=6nry5qgjkyu3svb5zfy4bc3f8&dl=1"
+          },
+          "added": 1742766765814
+        },
+        {
+          "title": "Bomberman 64",
+          "longTitle": "Bomberman 64 (USA)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Bomberman%2064%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Bomberman%2064%20(USA).png",
+          "description": "In the game's opening sequence, a peaceful-looking planet with gardens, rivers, and residential buildings abound is shown. Seconds later, the space pirate, Artemis, drops from the sky with a band of soldiers and orders them to raid the planet. Meanwhile, Altair (the leader of the space pirates), watches from the Black Fortress, using his coveted weapon, the Omni Cube, to completely drain the planet's energy, condemning it to a zombie-like state.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/lt0qoeugbenflljxc7lwy/Bomberman-64-USA.z64?rlkey=g494pcij8wsyrdyx3kpk47mni&dl=1"
+          },
+          "added": 1742766765814
+        },
+        {
+          "title": "Diddy Kong Racing",
+          "longTitle": "Diddy Kong Racing (USA) (En,Fr) (Rev 1)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Diddy%20Kong%20Racing%20(USA)%20(En%2CFr)%20(Rev%201).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Diddy%20Kong%20Racing%20(USA)%20(En%2CFr)%20(Rev%201).png",
+          "description": "Timber the Tiger's parents go on vacation and leave their son in charge of the island they live on, leaving him and his friends to race for fun. Their enjoyment is derailed when an evil, intergalactic, pig wizard named Wizpig arrives at peaceful Timber's Island and attempts to take over after he conquered his own planet's racetracks. He turns the four island's guardians: Tricky the Triceratops, Bubbler the Octopus, Bluey the Walrus and Smokey the Dragon into his henchmen. The only solution available to the island's inhabitants is to defeat Wizpig in an elaborate series of races that involves cars, hovercrafts, and airplanes. Drumstick, the best racer on the island, failed this challenge and was transformed into a frog by Wizpig's black magic. Timber recruits a team of 7 racers: Diddy Kong, the first recruit; Conker (Dixie Kong on DS), recruited by Diddy; Banjo (Tiny Kong on DS), also recruited by Diddy; Krunch, Diddy's enemy who follows after him; Tiptup, an inhabitant of Timber's island; Pipsy, another inhabitant of Timber's island; and Bumper, another inhabitant of Timber's island. They eventually complete all of Wizpig's challenges and confront Wizpig himself to a race and defeat him. Shortly afterwards, Wizpig leaves for his home planet, Future Fun Land. Fearing that Wizpig would again attempt to invade Timber's Island, the islanders travel to Future Fun Land for a second challenge. When Wizpig loses the second race, the rocket he rides on malfunctions and blasts him to a distant planet and peace returns to Timber Island for good.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/r6per068frlucywjamdsd/Diddy-Kong-Racing-USA-En-Fr-Rev-1.z64?rlkey=vbe4dexhs71dugpasaa9m4rkb&dl=1"
+          },
+          "added": 1742766765814
+        },
+        {
+          "title": "Donkey Kong 64",
+          "longTitle": "Donkey Kong 64 (USA)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Donkey%20Kong%2064%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Donkey%20Kong%2064%20(USA).png",
+          "description": "Donkey Kong 64 was released by Rare & Nintendo for the N64 in 1999 and was the first installment of the Donkey Kong Series in a 3D environment. King K. Rool planned to destroy DK Isles with a large laser called the Blast-O-Matic, but it malfunctions after a crash that puts his floating, mechanical hind face-to-face with DK Isles. To buy some time, he captures Donkey Kong's friends and locks them up, and then steals Donkey Kong's precious hoard of Golden Bananas. As Donkey Kong frees his fellow apes, they set off to recover the bananas and defeat King K. Rool and his army of Kremlings and other evil creatures!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/473prt2z115hn2z3544w1/Donkey-Kong-64-USA.z64?rlkey=kvrg4dnlxuy1tle1gloi5oyg1&dl=1"
+          },
+          "added": 1742766765814
+        },
+        {
+          "title": "Excitebike 64",
+          "longTitle": "Excitebike 64 (USA) (Rev 1)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Excitebike%2064%20(USA)%20(Rev%201).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Excitebike%2064%20(USA)%20(Rev%201).png",
+          "description": "The main game features a 20-track season mode. Completing races unlocks more tracks and features. There is a tutorial that teaches players how to play through the 17 different tracks. There are a variety of exhibitions and time trial modes that lets players do more activities other than the main game. A major feature is the track editor, where players can create their own fully functional track and save it into the game. The announcer, Limua, shouts out the tricks and crashes throughout the race. Also featured is the original Exitebike.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/pryivt7dbzech59lmvnor/Excitebike-64-USA-Rev-1.z64?rlkey=auf7olkemvclr8nd3v6x1gv6e&dl=1"
+          },
+          "added": 1742766765814
+        },
+        {
+          "title": "F-Zero X",
+          "longTitle": "F-Zero X (USA)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/F-Zero%20X%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/F-Zero%20X%20(USA).png",
+          "description": "Famed SNES racer F-Zero got this N64 update. Gameplay remains essentially unchanged, race in a futuristic racing tournament on tracks levitated miles up in the air, against a selection of devious opponents.\n\nWhere the original had 4 cars to choose from and race against, F-Zero X has no fewer than 30 vehicles all with their own unique strengths and weaknesses, a choice of colours, and customisable power/acceleration ratios for each track. At the beginning you are limited to choosing from 6 cars and 3 tournaments (each featuring 6 tracks each), but in true Nintendo fashion, more cars and tracks are unlocked as you progress through the game.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/8zlk10q4vif43kay9q5ke/F-Zero-X-USA.z64?rlkey=bpco1xwgmms8ay7wjye2q1m7k&dl=1"
+          },
+          "added": 1742766765814
+        },
+        {
+          "title": "GoldenEye 007",
+          "longTitle": "GoldenEye 007 (USA)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/GoldenEye%20007%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/GoldenEye%20007%20(USA).png",
+          "description": "The name is Bond. James Bond. The famous hero of Ian Fleming's novels returns in this first-person shooter, which is based on the movie of the same name. Agent 007 and his friend Alec Trevalyan (a.k.a. Agent 006) were sent to Soviet Union on a secret mission. But everything goes wrong, James Bond barely escapes, and his friend is presumed dead.\n\nTen years later, a mysterious organization named \"Janus\" appeared. Commanding a new satellite called \"GoldenEye\", the organizations attempts to steal money electronically from banks, deleting all evidence of transfer. It's up to our Agent 007 to venture to Soviet Union once again, and to put an end to Janus' ambitions.\n\nIn this 3D action game, you control James Bond from a first-person perspective, using a variety of weapons (from knuckles to grenade launcher) to eliminate your foes. However, many parts require you to be careful, to stay unnoticed or to snipe guards from distance, since they will react to your presence and alarm their comrades. The game is divided into missions, and in some of them you'll have to perform other tasks besides killing your enemies: disarm bombs, take pictures of important evidence, or avoid killing scientists. The game features a multiplayer mode with a variety of options, and three difficulty levels.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/lwbrczfquc8vebs1vybiw/GoldenEye-007-USA.z64?rlkey=5qcqi14nfv4aqy8lgkdn5joqe&dl=1"
+          },
+          "added": 1742766765814
+        },
+        {
+          "title": "Harvest Moon 64",
+          "longTitle": "Harvest Moon 64 (USA)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Harvest%20Moon%2064%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Harvest%20Moon%2064%20(USA).png",
+          "description": "The objective of Harvest Moon 64 is to restore and maintain an abandoned farm. The player is initially given a set of tools to use in order to achieve this goal. Along with restoring the farm, there are a number of other side quests that the player may choose to partake in, including training and racing a horse, selling crops, participating in a variety of town festivals as well as random events, falling in love and getting married, collecting recipes, and collecting photographs from various achievements and events.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/5yp7uhfh8n48du9788qpx/Harvest-Moon-64-USA.z64?rlkey=dj15cbbv7ndix5a92h7hsxzey&dl=1"
+          },
+          "added": 1742766765814
+        },
+        {
+          "title": "Killer Instinct Gold",
+          "longTitle": "Killer Instinct Gold (USA) (Rev 2)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Killer%20Instinct%20Gold%20(USA)%20(Rev%202).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Killer%20Instinct%20Gold%20(USA)%20(Rev%202).png",
+          "description": "Killer Instinct Gold rocks the gaming world with its earth-shattering moves and unbelievable graphics. Your battles unfold with lightning-fast action and fluid character animation at 60 frames per second. We faithfully duplicated all the features that made Killer Instinct 2 an arcade hit. We've even thrown in a complete training mode to school you on all the moves! The eye-popping graphics, the explosive hits and jaw-dropping combos make Killer Instinct Gold the only fighting game you'll ever want in your house!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/0qibsgj9892n4j4yfr81d/Killer-Instinct-Gold-USA-Rev-2.z64?rlkey=50f114bsxkqod9m57ptne3wxh&dl=1"
+          },
+          "added": 1742766765814
+        },
+        {
+          "title": "Kirby 64 - The Crystal Shards",
+          "longTitle": "Kirby 64 - The Crystal Shards (USA)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Kirby%2064%20-%20The%20Crystal%20Shards%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Kirby%2064%20-%20The%20Crystal%20Shards%20(USA).png",
+          "description": "Kirby's first 3-D adventure is also his Nintendo 64 debut, and it finds the always-versatile hero battling a new enemy called Dark Matter. Dark Matter is after a distant land's powerful crystal, but a young fairy named Ribbon attempts to save it by escaping with the gem to Dream Land. Now the crystal has been broken, and it's scattered around the world. Take control of Kirby and help him journey across six worlds, battling a wide variety of enemies and challenging bosses, as he tries to collect all 100 pieces of the shattered crystal.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/z1okgqz0j9wk4pm5kqvkz/Kirby-64-The-Crystal-Shards-USA.z64?rlkey=6cx8hknjr2iuczl5o8z85nt3b&dl=1"
+          },
+          "added": 1742766765814
+        },
+        {
+          "title": "Legend of Zelda, The - Majora's Mask",
+          "longTitle": "Legend of Zelda, The - Majora's Mask (USA)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Legend%20of%20Zelda%2C%20The%20-%20Majora's%20Mask%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Legend%20of%20Zelda%2C%20The%20-%20Majora's%20Mask%20(USA).png",
+          "description": "Link's all-new epic adventure lands him in the mystical world of Termina, where ever-present clocks count down the hours until a menacing moon falls from the sky above.  When his horse and Ocarina are stolen by a strange, masked figure, Link embarks on an urgent quest to solve the mystery of the moon, save the world from destruction, and find his way back to the peaceful land of Hyrule!\n\n* Link transforms before your eyes--Over 20 magical masks give Link powers and abilities he's never had before!  Watch him transform into a hapless Deku child, a mighty Goron hero and a legendary Zora guitarist.\n* Race against time--Characters and events flow with the hours of the day.  Set your own schedule and even alter time itself in a race to stop the moon and save the world!\n* Panoramic environments!  Powered-up action battles!  Fully interactive characters and events!  Experience gorgeous rendered landscapes, swarms of attacking enemies and a deep, engrossing world of wonders with the power of the N64 Expansion Pak.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/ksws1wwtxwngsq2slpis6/Legend-of-Zelda-The-Majora-s-Mask-USA.z64?rlkey=qyilmubra0pck2cexs0l32ycy&dl=1"
+          },
+          "added": 1742766765814
+        },
+        {
+          "title": "Legend of Zelda, The - Ocarina of Time",
+          "longTitle": "Legend of Zelda, The - Ocarina of Time (USA) (Rev 2)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Legend%20of%20Zelda%2C%20The%20-%20Ocarina%20of%20Time%20(USA)%20(Rev%202).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Legend%20of%20Zelda%2C%20The%20-%20Ocarina%20of%20Time%20(USA)%20(Rev%202).png",
+          "description": "Ganondorf, the evil King of Thieves, is on the move, threatening the peaceful land of Hyrule.  He is determined to steal his way into the legendary Sacred Realm in hopes of harnessing the power of the mythical Triforce.  As the young hero Link, it is your destiny to thwart Ganondorf's evil schemes.  Navi, your guardian fairy, will guide you as you venture through the many regions of Hyrule, from the volcanic caves of Death Mountain to the treacherous waters of Zora's Domain.  Before you complete this epic quest, you'll delve into deadly dungeons, collect weapons of great power and learn the spells you need to conquer the most irresistible force of all-time.\n\n* The immersive storyline and environments draw players into an amazing 3D world.\n* Time travel allows you to play as Link in different stages of his life.\n* New gameplay features include a unique targeting system and 1st and 3rd person perspectives.\n* Up to three games can be saved simultaneously to memory!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/c6ons1zegid623kqcs9ah/Legend-of-Zelda-The-Ocarina-of-Time-USA-Rev-2.z64?rlkey=f2din7gozl0f15w5n22kdk2i8&dl=1"
+          },
+          "added": 1742766765814
+        },
+        {
+          "title": "Mario Golf",
+          "longTitle": "Mario Golf (USA)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Mario%20Golf%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Mario%20Golf%20(USA).png",
+          "description": "Players can play as a variety of characters including Mario, Luigi, Princess Peach, Yoshi, and Wario. The game also introduces Plum, Sonny, Harry, Maple, and Charlie, new characters created by Camelot specifically for the game. Players can then select from a number of courses which have features adapted to the Nintendo world. Mario Golf is also very easy to play (also known as a \"pick up and play\" game) as it makes golf very simple.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/5u3v7qgvt0d8e4bawbwzx/Mario-Golf-USA.z64?rlkey=dyc0fyrb0s1ufqi5wffis5qzf&dl=1"
+          },
+          "added": 1742766765814
+        },
+        {
+          "title": "Mario Kart 64",
+          "longTitle": "Mario Kart 64 (USA)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Mario%20Kart%2064%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Mario%20Kart%2064%20(USA).png",
+          "description": "Three Two One GO!  The signal light changes and you drop the pedal to the metal.  Take on up to three friends in the split-screen VS games, or race solo in the Mario GP.  Tell your friends to bring it on in the highly competitive Battle mode.  Advanced features allow you to race with your \"Ghost\".  The driving data from your best run appears as a transparent character on the screen.  No longer must you simply race against the clock -- you can actually race against yourself!\n\n* Save your hottest Ghost data to a portable N64 Controller Pak!\n* Collect multiple power-up items!\n* Twenty different courses -- 4 Cups with 4 courses each and 4 special Battle mode courses!\n* Everyone's favorite characters are back and gorgeously rendered, including two new additions, Donkey Kong and Wario!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/9bgwpn1gsf59dddlawzbt/Mario-Kart-64-USA.z64?rlkey=ve6cimeqrz23in09ltn9po0qd&dl=1"
+          },
+          "added": 1742766765814
+        },
+        {
+          "title": "Mario Party",
+          "longTitle": "Mario Party (USA)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Mario%20Party%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Mario%20Party%20(USA).png",
+          "description": "Every game in the main series has a standard Party Mode in which up to four players play through a board, trying to collect as many stars as possible. In every turn, each player rolls a die and progresses on the board, which usually has branching paths. Coins are primarily earned by performing well in a minigame played at the end of each turn. On most boards, players earn stars by reaching a star space and purchasing a star for a certain amount of coins. The star space appears randomly on one of several pre-determined locations and moves every time a star is purchased, usually occupying a blue space.\nEvery Mario Party contains at least 50 to almost 110 minigames with a few different types. Four-player games are a free-for-all in which players compete individually. In 2-on-2 and 1-on-3 minigames, players compete as two groups, cooperating to win, even though they are still competing individually in the main game. Some minigames in Mario Party are 4-player co-op, even though it doesn't say it. In most situations, winners earn ten coins each.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/fr7clcgh3lavxd4dmeyyl/Mario-Party-USA.z64?rlkey=0nainmxxzhno9sj5hgws7k7ah&dl=1"
+          },
+          "added": 1742766765814
+        },
+        {
+          "title": "Mario Party 2",
+          "longTitle": "Mario Party 2 (USA)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Mario%20Party%202%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Mario%20Party%202%20(USA).png",
+          "description": "Mario and the gang are back for another round of Bowser-bashin' party action! Watch as your favorite Nintendo characters don different duds for each of the five all-new Adventure Boards! A slew of new tricks and devices bring new levels of challenge and excitement to board game play. New board maps, new Mini-Games, new action and new surprises means a whole new batch of fun! Get ready to unleash your best Hip Drops, hammer swings and high-flying high junks for another round of frenzied multi-player action!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/qbxe8fbsb5zhr1aq5lhy6/Mario-Party-2-USA.z64?rlkey=5m0glogulg29ogw79auibzbqv&dl=1"
+          },
+          "added": 1742766765814
+        },
+        {
+          "title": "Mario Party 3",
+          "longTitle": "Mario Party 3 (USA)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Mario%20Party%203%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Mario%20Party%203%20(USA).png",
+          "description": "Mario Party 3 is the third and final Mario Party title for the Nintendo 64. A total of eight characters are available to choose from: Mario, Luigi, Princess Peach, Yoshi, Wario, Donkey Kong, and newcomers Waluigi and Princess Daisy. Mario Party 3 features duel maps, in which two players try to lower each other's stamina to zero using non-playable characters such as Chain Chomps. It is the first Mario Party game to feature Luigi's main voice and also it is last Mario game where Princess Daisy appears in a yellow and white dress, and with long hair, as well as the last Mario game (until New Super Mario Bros. Wii) in which Yoshi's \"record-scratching\" voice is used. It is also the first Mario Party game to have multiple save slots.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/mbvv0o99z5x0rx8agj839/Mario-Party-3-USA.z64?rlkey=761t0rybrrzuopw80v8zcens8&dl=1"
+          },
+          "added": 1742766765814
+        },
+        {
+          "title": "Mario Tennis",
+          "longTitle": "Mario Tennis (USA)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Mario%20Tennis%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Mario%20Tennis%20(USA).png",
+          "description": "Shots are performed by pressing one, or both, of the two main buttons (A or B), which make the ball spin in different ways. Pressing a button twice strikes the tennis shot with more power and spin. Additionally, pressing the two buttons in a different order can result in a different type of shot altogether, such as a lob or drop shot. all 4 buttons can be pressed at the same time to hit a very powerful smash shot. The longer a button is pressed before contact is made with the ball, the stronger the shot will be. The control system allows players of all levels to become familiar with the mechanics of the game within a very short time, whilst also encouraging advanced players to take advantage of the variety of shots on offer to come up with different strategies for winning points. A total of seven types of shot are possible using only the one main button of the controller.\n\nThese gameplay mechanics were later brought to the other games of the Mario Tennis series in Mario Tennis GBC, Mario Tennis: Power Tour and Mario Power Tennis.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/yb83u9igmrr061lkpnk7q/Mario-Tennis-USA.z64?rlkey=v90orgqgdc50sz5ihljwtqml0&dl=1"
+          },
+          "added": 1742766765815
+        },
+        {
+          "title": "Mega Man 64",
+          "longTitle": "Mega Man 64 (USA)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Mega%20Man%2064%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Mega%20Man%2064%20(USA).png",
+          "description": "Mega Man Volnutt is the game's playable character. Mega Man Volnutt is a \"Digger\", a person in charge of investigating ruins from a flooded Earth. During his journey with his friends, their ship crashes in Kattelox Island, where Mega Man decides to confront pirates who are attacking it to obtain the its hidden treasure. As an action roleplaying game, Mega Man Legends's gameplay is very different from the ones of the original series despite sharing a few elements.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/b6quwwdy6wm6gjxshb3zu/Mega-Man-64-USA.z64?rlkey=0we96u1snfz4vm5nwf8j5h7rz&dl=1"
+          },
+          "added": 1742766765815
+        },
+        {
+          "title": "New Tetris, The",
+          "longTitle": "New Tetris, The (USA)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/New%20Tetris%2C%20The%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/New%20Tetris%2C%20The%20(USA).png",
+          "description": "There are several key differences in gameplay from the original Tetris. First, in addition to clearing lines, one can also form 4x4 large squares of four pieces to form 'blocks'. When a block is created, it turns solid gold or silver, depending on the makeup of the blocka block built from all the same kind of piece becomes a golden block or \"monosquare\", while any other combination becomes a silver block or \"multisquare\". Blocks can only be constructed from whole pieces: if any part of a piece has been cleared, then it cannot be used to form a block. When a line that has pieces from a block is cleared, it earns more points.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/nwcu7hs4cthauzcmvs9np/New-Tetris-The-USA.z64?rlkey=uyk5x39xwkr20tu3tj9yv03mp&dl=1"
+          },
+          "added": 1742766765815
+        },
+        {
+          "title": "Paper Mario",
+          "longTitle": "Paper Mario (USA)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Paper%20Mario%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Paper%20Mario%20(USA).png",
+          "description": "Mario pals around in an all-new action adventure! Mario's back in his first adventure since Super Mario 64, and this time, Bowser's bent on preventing a storybook ending. When Princess Peach is kidnapped, Mario plots to rescue the seven Star Spirits and rid the Mushroom Kingdom of Koopa's cruel cohorts. As he travels from the tropical jungles of Lavalava Island to the frosty heights of Shiver Mountain, he'll meet up with seven all-new companions... and he'll need help from each one or there'll be no happily ever after.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/tnk9fudgwv7ocu2849bw8/Paper-Mario-USA.z64?rlkey=8iqgmvtrpzx97kjxc8qx73ok6&dl=1"
+          },
+          "added": 1742766765815
+        },
+        {
+          "title": "Pilotwings 64",
+          "longTitle": "Pilotwings 64 (USA)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Pilotwings%2064%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Pilotwings%2064%20(USA).png",
+          "description": "Forget about those other flying games.  This is the ultimate flight experience!  Pilotwings 64 carries you off into a vast three-dimensional environment.  Pilot several different vehicles and take in breathtaking sights.  Successfully complete flight tests to earn your flight badge.  Get a high enough score, and you'll get a chance at bonus games such as Cannonball and Sky Diving!  Soar into a wild blue yonder with Pilotwings 64!\n\n* Tons of aerial challenges for you to master!\n* Hop into the seat of a Gyrocopter and fire off some missiles!\n* Strap on a Rocket Belt and check out places like Mt. Rushmore, the Space Needle and the Statue of Liberty!\n* Dangle in silent solitude from a Hang GLider as you soar above tropical jungles and frozen ice floes.\n* Save your progress in memory.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/jhqv8r4sxwohiifkmzmx6/Pilotwings-64-USA.z64?rlkey=ph503oa9y7s4jhz05d66lu4xk&dl=1"
+          },
+          "added": 1742766765815
+        },
+        {
+          "title": "Pokemon Snap",
+          "longTitle": "Pokemon Snap (USA)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Pokemon%20Snap%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Pokemon%20Snap%20(USA).png",
+          "description": "Professor Oak needs your help!\n\nThe Professor has asked you to capture the Wild Pokmon of Pokmon Island on film!  Tour the island in your ZERO-ONE vehicle and snap pictures of Pokmon in their natural habitat.  Wild Pokmon are often camera-shy, so you'll have to use special items to bring them out in the open.  Only the best shots will do for the Professor's Pokmon Report, so sharpen your photography skills and get ready to SNAP!\n\n* The first-ever N64 game to feature the world-famous Pokmon--fully rendered in 3-D!\n* Explore the many environments of Pokmon Island, like the sunny beach, the mysterious caves, and even a red-hot volcano!\n* Many different types of Pokmon inhabit the island.  See how many you can catch on film!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/1eklt0yb8a12vqf3sihdn/Pokemon-Snap-USA.z64?rlkey=g8nqzdsojkm8kj36k8f8166yr&dl=1"
+          },
+          "added": 1742766765815
+        },
+        {
+          "title": "Pokemon Stadium",
+          "longTitle": "Pokemon Stadium (USA) (Rev 2)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Pokemon%20Stadium%20(USA)%20(Rev%202).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Pokemon%20Stadium%20(USA)%20(Rev%202).png",
+          "description": "Pokmon Stadium does not have a storyline. Progress in the game can only be made by winning \"Cups\" in the Stadium and completing the Gym Leader Castle. When all Cups have been won and the Gym Leader Castle completed, Mewtwo will appear in the sky over the Stadium. Defeating Mewtwo will unlock the much harder Round 2, in which the player must re-challenge the Stadium, Gym Leader Castle, and Mewtwo, in order to complete the game.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/xuym002oyhwb780vk60ak/Pokemon-Stadium-USA-Rev-2.z64?rlkey=1g0lz00o40t18gs61xyixjtyi&dl=1"
+          },
+          "added": 1742766765815
+        },
+        {
+          "title": "Pokemon Stadium 2",
+          "longTitle": "Pokemon Stadium 2 (USA)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Pokemon%20Stadium%202%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Pokemon%20Stadium%202%20(USA).png",
+          "description": "While Pokmon Stadium 2 does have a storyline, progress in the game can be made by winning Cups in the Stadium and completing the Gym Leader Castle. When all Cups have been won and the Gym Leader Castle completed, the player's Rival will appear. Defeating the Rival will unlock Round 2, in which the player must re-challenge the Stadium, Gym Leader Castle, and the Rival in order to complete the game. But, they have different Pokmon and the difficulty is much higher.\n\nStadium:\nThe player begins by choosing 6 different Pokmon. There are 250 different Pokmon to choose from; including some legendary Pokmon. Pokmon tournaments take place in the Stadium. There are four Cups to participate in. Each round consists of eight battles, and every Cup except the Little and Prime Cup consists of four rounds, named after Pok Balls, that must be cleared to win that Cup.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/qywqvcyoxo5pml9mpm5t6/Pokemon-Stadium-2-USA.z64?rlkey=gpn47r5d3apbctnn177nxdbrv&dl=1"
+          },
+          "added": 1742766765815
+        },
+        {
+          "title": "San Francisco Rush 2049",
+          "longTitle": "San Francisco Rush 2049 (USA)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/San%20Francisco%20Rush%202049%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/San%20Francisco%20Rush%202049%20(USA).png",
+          "description": "San Francisco Rush 2049 is the third game in the Rush series, sequel to San Francisco Rush and Rush 2: Extreme Racing USA.\nThe game features a futuristic representation of San Francisco and an arcade-style physics engine. It also features a multiplayer mode for up to four players and Rumble Pak support on the Nintendo 64 port. A major difference in game play compared to predecessors in the series is the ability to extend wings from the cars in midair and glide. As with previous titles in the franchise, Rush 2049 features a stunt mode in which the player scores points for complex mid-air maneuvers and successful landings. There is also a multiplayer deathmatch battle mode. There are six race tracks, four stunt arenas, eight battle arenas, and one unlockable obstacle course named The Gauntlet. The single player race mode places emphasis on outlandish and death-defying shortcuts in each track. The game has a soundtrack mostly comprising techno music.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/0ccctnqtn6u1afmew5ouv/San-Francisco-Rush-2049-USA.z64?rlkey=s7nkgpi8oyphk1eszwz94kne1&dl=1"
+          },
+          "added": 1742766765815
+        },
+        {
+          "title": "Star Fox 64",
+          "longTitle": "Star Fox 64 (USA) (Rev 1)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Star%20Fox%2064%20(USA)%20(Rev%201).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Star%20Fox%2064%20(USA)%20(Rev%201).png",
+          "description": "The Lylat system has been invaded!  Join Fox McCloud and his Star Fox team as they fight to save the galaxy from the clutches of the evil Andross.  Travel to many different 3-D worlds.  Battle the enemy in the air and on the ground and listen in as Fox McCloud interacts with a cast of characters.\n\nSee how it feels to feel what you see!  The N64 Rumble Pak controller accessory instantly transmits all the bumps and blasts during the action.  It's a new jolt to your game play experience!\n\n* Four Players compete simultaneously in Vs. mode!\n* Game Pak memory saves the top 10 scores!\n* Outstanding cinema scenes tell the Star Fox saga!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/f9vlk8qemvv12nz077vns/Star-Fox-64-USA-Rev-1.z64?rlkey=iejko6yh6qrosbqvj8hrcte2i&dl=1"
+          },
+          "added": 1742766765815
+        },
+        {
+          "title": "Super Mario 64",
+          "longTitle": "Super Mario 64 (USA)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Super%20Mario%2064%20(USA).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Super%20Mario%2064%20(USA).png",
+          "description": "Super Mario 64 is a Jump & Run which was developed and published by Nintendo in 1996 as one of the realease titles for the N64. Set in Princess Peach's Castle, Mario discovers that Bowser has invaded the castle and imprisoned the princess as well as her servants within it, using the power of the castle's 120 Power Stars. Mario searches the castle and discovers paintings which are portals to other worlds where Bowser & his minions guard the stars - encouraged to save Princess Peach, Mario embarks on a journey to recover all the Power Stars & defeat Bowser in his lair!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/4immacui4qhroxqjrmw8n/Super-Mario-64-USA.z64?rlkey=kla3n2mt0s2o3fpjta17gm1s4&dl=1"
+          },
+          "added": 1742766765815
+        },
+        {
+          "title": "Wave Race 64 - Kawasaki Jet Ski",
+          "longTitle": "Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Wave%20Race%2064%20-%20Kawasaki%20Jet%20Ski%20(USA)%20(Rev%201).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Wave%20Race%2064%20-%20Kawasaki%20Jet%20Ski%20(USA)%20(Rev%201).png",
+          "description": "Brilliant water effects and excellent control highlight this gorgeous racing pak for the N64. You'll feel the pounding and crashing of the waves as you accelerate into straightaways, whip around pylons and fly off ramps. Don't race alone. Challenge a friend in two-player mode! \r\n\r\n Wave Race 64's nine challenging courses are packed with marker buoys, ramps, mines, hairpin turns, sand spits and more. As you proceed through Championship mode's three difficulty levels, the courses get tougher and your rivals become more aggressive. Things start out easy in the tranquil lagoon of Dolphin Park. Soon, you'll battle the slanting light of Sunset Bay, race through the fog banks of Drake Lake, skip from wavetop to wavetop in the choppy Marine Fortress course, make a late-night run through the neon-lit Twilight City, skid across the ice floes of Glacier Coast and even fight Southern Island's treacherous tide! \r\n\r\nIn Stunt mode, you'll master dazzling tricks while riding through red-and-white rings. You can do a handstand and roll, flip or helicopter your Jet Ski. If you're good enough, you'll even get to ride a dolphin! Test yourself in Time Trial mode.  Wave Race 64 gives you a choice of four riders, each graded according to four capabilities: grip, handling, acceleration, top speed and collision stability. You can customize each rider's Jet Ski and even select how rough the waters are. You can't do that in real life! \r\n\r\nYou can save your circuit progress, best times and custom settings on the Game Pak, then transfer the results to a Controller Pak and play at a friend's house.",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/jegtnr6ubt1w5r1d9hfsz/Wave-Race-64-Kawasaki-Jet-Ski-USA-Rev-1.z64?rlkey=dp04q8kq8jkipxb1ttq6wbsg3&dl=1"
+          },
+          "added": 1742766765815
+        },
+        {
+          "title": "Yoshi's Story",
+          "longTitle": "Yoshi's Story (USA) (En,Ja)",
+          "type": "n64",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Yoshi's%20Story%20(USA)%20(En%2CJa).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Yoshi's%20Story%20(USA)%20(En%2CJa).png",
+          "description": "Baby Bowser has taken the Super Happy Tree and cast a spell on Yoshi's world, turning it into the pages of a picture book.  The only Yoshis not affected by the spell were six hatchlings that were still protected by their shells.  It's up to them to reclaim the Super Happy Tree and restore happiness to the world.  That is the only thing that can break Baby Bowser's Spell!",
+          "backgroundPixelated": true,
+          "props": {
+            "rom": "https://dl.dropbox.com/scl/fi/m0ydpkw3286kkg6snbqpp/Yoshi-s-Story-USA-En-Ja.z64?rlkey=8y0t1d15eiiefgfo7i9fmgo6p&dl=1"
+          },
+          "added": 1742766765815
+        }
+      ]
     }
   ],
   "longTitle": "Retro Games",
   "description": "I Love Retro Games",
-  "thumbnail": "https://i.imgur.com/iXxE4KB.png",
+  "thumbnail": "https://www.dropbox.com/scl/fi/x7wertgr8rdf353uflqds/vibe.png?rlkey=8a63cr7vp2h0vmysqss8fv8nl&dl=0",
   "background": "https://i.imgur.com/fyRoGmy.png",
-  "backgroundPixelated": true
+  "backgroundPixelated": true,
+  "props": {}
 }
