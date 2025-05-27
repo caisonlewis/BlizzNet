@@ -35,7 +35,7 @@
 
         //create subheading element for playtime
         let playtime = document.createElement("playtime");
-        subheading.textContent = this.playtime; //set heading inside playtime element
+        playtime.textContent = this.playtime; //set heading inside playtime element
 
 
         // Assign a mapped class if it exists, otherwise default to "other"
@@ -50,7 +50,7 @@
         gameDiv.appendChild(img);
         gameDiv.appendChild(title);
         gameDiv.appendChild(subheading);
-        gameDiv: appendChild(playtime);
+        gameDiv.appendChild(playtime);
         gameDiv.appendChild(desc);
 
         // Return the complete game card element so it can be added to the page
