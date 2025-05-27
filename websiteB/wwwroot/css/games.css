@@ -50,6 +50,10 @@
     h3.pc { color: cyan; }
     h3.other { color: white; } /* Default for other platforms */
 
+    .game-card playtime {
+        font-size: 18px;
+    }
+
 
     /* Adjust Description */
     .game-card p {
