@@ -108,7 +108,7 @@ const dqXI = new Game("DRAGON QUEST XI S: Echoes of an Elusive Age", "/BlizzNet/
 
 
 // Array of games
-const games = [leafgreen, mhWilds,mhWorld, rdr2, PLA, xc3, gris];
+const games = [dqXI, leafgreen, mhWilds,mhWorld, rdr2, PLA, xc3, gris];
 
 // Display games on the page
 document.addEventListener("DOMContentLoaded", function () {
