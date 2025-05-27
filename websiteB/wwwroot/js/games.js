@@ -91,6 +91,23 @@ const leafgreen = new Game("Pokemon Leaf Green", "Gameboy Advance", "/BlizzNet/w
 
 // TODO: Add Fallout 4
 
+// TODO: Add Pokemon Fire Red
+// TODO: Add Diablo III
+// TODO: Add Borderlands 2
+// TODO: Add Borderlands 3
+// TODO: Add Halo 2
+// TODO: Add Halo 3
+// TODO: Add Halo: Reach
+// TODO: Add Monopoly Plus
+// TODO: Add Battlefield 1
+// TODO: Add Battlefield V
+// TODO: Add Fallout New Vegas
+// TODO: Add Minecraft
+// TODO: Add Pokemon Emerald
+// TODO: Add Pokemon Omega Ruby
+// TODO: Add Pokemon Sun
+// TODO: Add Pokemon Ultra Moon
+
 
 
 // Array of games
