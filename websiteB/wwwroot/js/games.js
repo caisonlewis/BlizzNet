@@ -81,6 +81,10 @@ const leafgreen = new Game("Pokemon Leaf Green", "Gameboy Advance", "/BlizzNet/w
 "So I started this as a kid and for some reason never finished it. I actually went the longest time without fully finishing a Kanto game despite my love for the Pokemon series. I just finally finished the elite 4 for leafgreen on my RG25XX Plus and I really loved it. I spent quite a while training up my dragonite and the elite 4 was actually fairly challenging for me because of the levels of my team. Great game, very nostalgic, glad I finished it."
 )
 
+const dqXI = new Game("DRAGON QUEST XI S: Echoes of an Elusive Age", "/BlizzNet/websiteB/wwwroot/images/DQXIS.jpg",
+"It's been a while since I actually sat down and finished a long JRPG within just about a month, the last few 50+ hour RPGs I started, they took me several months to even sometimes over a year ('ahem'... Xenoblade 3') but this one just hooked me pretty quick. I got really involed with the story and attached to the characters and next thing you know 55 hours is gone and I beat the main story. Beautiful game. Visually gorgeous and as well as a tear jerking epic story to match. The turned based combat is fun. The spells and abilities are diverse and the character building is fluid and customizable. I love all the design work (Cheers to the late Akria Toriyama), the monster designs are really cool and interesting as well as their idol and attack animations. I'm not really a 100% completion type guy but I am going to at least finish all the Tickington mini stories and fight this 'secret super boss' I keep hearing about. Loved it 10/10. Suprised how quickly I blasted through this one. It is no short journey. "
+)
+
 // TODO: Add No Mans Sky
 
 // TODO: Add Monster Hunter Rise
@@ -96,17 +100,10 @@ const leafgreen = new Game("Pokemon Leaf Green", "Gameboy Advance", "/BlizzNet/w
 // TODO: Add Borderlands 2
 // TODO: Add Borderlands 3
 // TODO: Add Halo 2
-// TODO: Add Halo 3
-// TODO: Add Halo: Reach
 // TODO: Add Monopoly Plus
-// TODO: Add Battlefield 1
-// TODO: Add Battlefield V
-// TODO: Add Fallout New Vegas
 // TODO: Add Minecraft
 // TODO: Add Pokemon Emerald
-// TODO: Add Pokemon Omega Ruby
-// TODO: Add Pokemon Sun
-// TODO: Add Pokemon Ultra Moon
+
 
 
 
