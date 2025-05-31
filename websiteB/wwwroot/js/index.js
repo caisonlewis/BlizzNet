@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Array of image sources
     const imageSources = [
-        "/BlizzNet/websiteB/wwwroot/images/animalcrossingmusicfeels.png",
+        "/BlizzNet/websiteB/wwwroot/images/sadboi.png",
         "/BlizzNet/websiteB/wwwroot/images/sad-cat-rolling.gif",
         "/BlizzNet/websiteB/wwwroot/images/blastoise-water.gif"
     ];
@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const container = document.getElementById("aboutme-container");
 
     // Create an AboutMeEntry object properly
-    const entry = new AboutMeEntry("Hi, I'm Blizz. I like playing video games and programming! This site is basically a dump bin for whatever I feel like sharing! Stick around for a while and see what kind of weird stuff I'm into!");
+    const entry = new AboutMeEntry("Hello. I like playing video games. This site is basically a bunch of random stuff that makes me happy. ;) ");
 
     // Append the created element to the container
     container.appendChild(entry.createEntryElement());
