@@ -92,6 +92,10 @@ const dqXI = new Game("DRAGON QUEST XI S: Echoes of an Elusive Age", "Playstatio
 "It's been a while since I actually sat down and finished a long JRPG within a relatively short period of time (about a month). The last few 50+ hour RPGs I started, they took me several months to even sometimes over a year ('ahem'... Xenoblade 3') but this one just hooked me pretty quick. I got really involved with the story and attached to the characters. Next thing you know 55+ hours is gone and I beat the main story. Beautiful game. It is visually gorgeous and has a tear jerking epic story to match. The turned based combat is fun. The spells and abilities are diverse and the character building is fluid and customizable. I love all the design work (Cheers to the late Akria Toriyama), the monster designs are really cool and interesting as well as their idol and attack animations. I'm not really a 100% completion type guy but I am going to at least finish all the Tickington mini stories and fight this 'secret super boss' I keep hearing about. Loved it 10/10. Suprised how quickly I blasted through this one. This is not a 'quick' game by any means.."
 )
 
+const dqXITrueEnd = new Game("DRAGON QUEST XI S: Echoes of an Elusive Age - ACT 3", "Playstation 5", "80h 00m", "/BlizzNet/websiteB/wwwroot/images/yggdragon.jpg",
+    "HOLY SHIT. So this is a follow up to my previous post where I thought I beat the game after finishing act two and act three was just a 'post game' with some extra story bits. I liked the game a lot so I figured I would do the 'extra post game stuff' for the hell of it. My god. The best part of the story is act 3. I am completely mind blown. I won't spoil anything for anyone who hasn't finished the game but lets put it like this - this was my first dragon quest game, I have played a bit of VIII and read a bit online about the other games in the series and decided DQ XI would be a good starting point in the series. After what I've read and learned about DQ, I was really interested in getting into the Erdrick trilogy (the first the games). Because of this, I decided to buy the Dragon Quest III HD-2D remake to play after finishing DQXI. (DQIII is the first game chronologically in the trilogy). My god what a good play on my part. I find out after act three that DQ XI relates to the Erdrick trilogy (III specifically). Mind Blown. I will say no more for those who fear spoilers because staying spoiler free while playing through this game was the best decision I could possibly make. If you take anything away from this.. THE GAME ISNT FINISHED.. PLAY ACT III. Stellar game."
+)
+
 // TODO: Add No Mans Sky
 
 // TODO: Add Monster Hunter Rise
@@ -115,7 +119,7 @@ const dqXI = new Game("DRAGON QUEST XI S: Echoes of an Elusive Age", "Playstatio
 
 
 // Array of games
-const games = [dqXI, leafgreen, mhWilds,mhWorld, rdr2, PLA, xc3, gris];
+const games = [dqXITrueEnd, dqXI, leafgreen, mhWilds,mhWorld, rdr2, PLA, xc3, gris];
 
 // Display games on the page
 document.addEventListener("DOMContentLoaded", function () {
