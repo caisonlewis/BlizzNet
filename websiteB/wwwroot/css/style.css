@@ -45,8 +45,8 @@ nav {
         }
 
     nav a {
-        color: black;
-        text-shadow: 1px 1px 2px black;
+        color: #00f;
+        text-shadow: 1px 1px 2px #00f;
         font-size: 14px;
         display: block;
         padding: 10px;
