@@ -1,9 +1,8 @@
 ﻿/* Global styles */
 
 body {
-    background: linear-gradient(45deg, #291ECD, #14C2DD, #21DD14);
-    background-size: 300% 300%;
-    animation: neonFlow 10s infinite alternate;
+    background-image: url("../images/animal crossing wild world.jpg");
+    background-repeat: repeat;
     overflow-x: hidden;
     font-family: 'Lucida Bright';
     color: #0ff;
