@@ -11,18 +11,6 @@ body {
     padding: 0;
 }
 
-@keyframes neonFlow {
-    0% {
-        filter: brightness(1);
-        background-position: 0% 50%;
-    }
-
-    100% {
-        filter: brightness(1.2);
-        background-position: 100% 50%;
-    }
-}
-
 
 /* global header */
 header {
@@ -42,7 +30,7 @@ nav {
     top: 0;
     height: 120%;
     width: 100px;
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgb(172, 255, 0);
     padding-top: 20px;
 }
 
