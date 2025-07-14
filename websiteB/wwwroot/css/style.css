@@ -37,7 +37,7 @@ header {
     width: auto;
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
     align-content: center;
-    text-shadow: 4px 4px 8px black;
+    text-shadow: 4px 4px 8px #0ff;
 }
 
 /* Left Navigation pane */
