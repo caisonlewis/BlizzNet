@@ -57,8 +57,10 @@ const may_31_25 = new JournalEntry("Realizations", "5/31/2025",
 
 const june_13_25 = new JournalEntry("Recent Hyper-Fixations", "6/13/2025", "Recently after finishing Dragon Quest XI, I have been really into Dragon Quest as a whole. I bought DQIII HD 2D remake and started playing through it and it's gorgeous. Looking forward to finishing it and then playing 1 and 2 to complete the whole Erdrick story. I have also been back on an Animal Crossing kick, specifically Wild World and New Leaf. These games are wholesome nostalgia comfort food and I can't get enough of it. I bought No Mans Sky on PS5 also. I have about 100 hours and beat the game on PC and have another 20-30 hours on Switch. Such an addictive space survival/exploration game and it is absolutely gorgeous on PS5. Anyway... maybe I'll had some more stuff to this site.. maybe not.. who knows.")
 
+const july_13_25 = new JournalEntry("Coming Soon", "7/13/2025", "well, it's been a month, still pretty much doing the same thing I was doing a month ago, kinda been in a better place mentally I guess. Not great but not worse.. Back to the reason for this post; I am putting up a new page soon to document my new undertaking. I am working on a professor oaks challenge on Pokemon Black 2. It is going to be a massive undertaking but I really want to see if I can do it and I think it will be really fun to train up Pokemon I have never really used before on a standard playthrough team. Look forward to the new page and (somewhat) regular updates on the challenge. I'll detail the rules and all that good stuff on this page as well. I'll probably have it set up after I complete the first badge or 'section' of the run (which by the way, is a large undertaking it itself, Black 2 and White 2 are notoriouslly hard in general for a POC but the first section is especially brutal) Until then, peace ✌️");
+
 // Array of entries
-const entries = [june_13_25, may_31_25, mar_18_25, feb_19_25, feb_13_25];
+const entries = [july_13_25,june_13_25, may_31_25, mar_18_25, feb_19_25, feb_13_25];
 
 // Display entries on the page
 document.addEventListener("DOMContentLoaded", function () {

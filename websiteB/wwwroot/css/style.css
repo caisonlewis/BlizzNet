@@ -1,9 +1,9 @@
 ﻿/* Global styles */
 
 body {
-    background: linear-gradient(45deg, #291ECD, #14C2DD, #21DD14);
-    background-size: 300% 300%;
-    animation: neonFlow 10s infinite alternate;
+    background-image: url("../images/spriteBackground.png");
+    background-repeat: no-repeat;
+    background-size: auto;
     overflow-x: hidden;
     font-family: 'Lucida Bright';
     color: #0ff;
@@ -11,6 +11,9 @@ body {
     margin: 0;
     padding: 0;
 }
+
+/*
+    keeping this in case I want to go back to the OG neon background I started with.. 
 
 @keyframes neonFlow {
     0% {
@@ -23,6 +26,7 @@ body {
         background-position: 100% 50%;
     }
 }
+*/
 
 
 /* global header */
