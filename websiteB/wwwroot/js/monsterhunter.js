@@ -22,8 +22,8 @@
 
     // Array of image sources
     const imageSources = [
-        "/BlizzNet/websiteB/wwwroot//images/MH/build1.jpg",
-        "/BlizzNet/websiteB/wwwroot//images/MH/build2.jpg"
+        "/images/MH/build1.jpg",
+        "/images/MH/build2.jpg"
     ];
 
     // Loop through image sources and create img elements
