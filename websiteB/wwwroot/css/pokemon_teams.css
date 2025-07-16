@@ -109,7 +109,7 @@ h2 {
 
 #blue h2 {
     color: blue; /*Blue version game title color*/
-    text-shadow: 2px 2px 4px white;
+    text-shadow: 2px 2px 4px black;
     
 }
 
@@ -121,7 +121,7 @@ h2 {
 
 #emerald h2 {
     color: darkgreen; /* Emerald game title color */
-    text-shadow: 2px 2px 4px white;
+    text-shadow: 2px 2px 4px black;
     
 }
 
