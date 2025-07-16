@@ -34,19 +34,44 @@
     align-content: center;
     margin-left: auto;
     margin-right: auto;
-    color: gold; 
+    color: gold;
     text-shadow: 2px 2px 4px black;
+    /* below adds a border so the texr does not clash with the background*/
+
+    width: auto;
+    max-width: 50%;
+    background-color: rgba(0, 0, 0, 0.9);
+    border: 3px solid #0ff;
+    margin-top: 20px;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    box-shadow: 0px 0px 15px #0ff;
 }
 
 .shiny-subtitle {
     text-align: center;
     font-size: 25px;
-    color: gold; 
+    color: gold;
     text-shadow: 2px 2px 4px black;
     margin-top: 5px; /* Small spacing below title */
     align-content: center;
     margin-left: auto;
     margin-right: auto;
+
+    /* below adds a border so the texr does not clash with the background*/
+
+    width: auto;
+    max-width: 50%;
+    background-color: rgba(0, 0, 0, 0.9);
+    border: 3px solid #0ff;
+    margin-top: 20px;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    box-shadow: 0px 0px 15px #0ff;
 }
 
 /* Table Styling */
