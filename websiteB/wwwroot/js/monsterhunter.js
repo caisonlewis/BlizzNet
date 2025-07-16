@@ -22,9 +22,9 @@
 
     // Array of image sources
     const imageSources = [
-        "/BlizzNet/websiteB/wwwroot//images/MH/hrbuild3.jpg",
-        "/BlizzNet/websiteB/wwwroot//images/MH/hrbuild2.jpg",
-        "/BlizzNet/websiteB/wwwroot//images/MH/hrbuild1.jpg",
+        "/BlizzNet/websiteB/wwwroot//images/MH/gsbuild.jpg",
+        "/BlizzNet/websiteB/wwwroot//images/MH/lsbuild.jpg",
+        "/BlizzNet/websiteB/wwwroot//images/MH/swaxebuild.jpg",
         "/BlizzNet/websiteB/wwwroot//images/MH/build1.jpg",
         "/BlizzNet/websiteB/wwwroot//images/MH/build2.jpg"
     ];
