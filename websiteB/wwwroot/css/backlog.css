@@ -5,6 +5,19 @@
     font-size: 25px;
     color: goldenrod;
     text-shadow: 2px 2px 4px black;
+
+    /*below adds a border around text so that it doesn't clash with the page background*/
+
+    width: auto;
+    max-width: 50%;
+    background-color: rgba(0, 0, 0, 0.9);
+    border: 3px solid #0ff;
+    margin-top: 20px;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    box-shadow: 0px 0px 15px #0ff;
 }
 
 .currGame {
@@ -13,6 +26,19 @@
     font-size: 18px;
     color: whitesmoke;
     text-shadow: 2px 2px 4px black;
+
+    /*below adds a border around text so that it doesn't clash with the page background*/
+
+    width: auto;
+    max-width: 50%;
+    background-color: rgba(0, 0, 0, 0.9);
+    border: 3px solid #0ff;
+    margin-top: 20px;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    box-shadow: 0px 0px 15px #0ff;
 }
 
 /* Next up header*/
@@ -22,6 +48,19 @@
     font-size: 25px;
     color: goldenrod;
     text-shadow: 2px 2px 4px black;
+
+    /*below adds a border around text so that it doesn't clash with the page background*/
+
+    width: auto;
+    max-width: 50%;
+    background-color: rgba(0, 0, 0, 0.9);
+    border: 3px solid #0ff;
+    margin-top: 20px;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    box-shadow: 0px 0px 15px #0ff;
 }
 
 .nextGame {
@@ -30,6 +69,19 @@
     font-size: 18px;
     color: whitesmoke;
     text-shadow: 2px 2px 4px black;
+
+    /*below adds a border around text so that it doesn't clash with the page background*/
+
+    width: auto;
+    max-width: 50%;
+    background-color: rgba(0, 0, 0, 0.9);
+    border: 3px solid #0ff;
+    margin-top: 20px;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    box-shadow: 0px 0px 15px #0ff;
 }
 
 /* Center the backlog table */
@@ -123,8 +175,7 @@
 
     /* Nintendo DS */
     .platform.nintendo-ds {
-        color: black;
-        text-shadow: 2px 2px 4px grey;
+        color: #8f0918;
     }
 
     /* Nintendo 3DS */
