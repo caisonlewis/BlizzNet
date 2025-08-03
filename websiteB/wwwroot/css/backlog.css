@@ -184,3 +184,13 @@
         
     }
 
+    /* SNES */
+    .platform.snes {
+        color: grey;
+    }
+
+    /* Nintendo Gamecube */
+    .platform.nintendo-gamecube {
+        text-shadow: -1px -1px 0 grey, 1px -1px 0 grey, -1px 1px 0 grey, 1px 1px 0 grey; /* Produces a text "outline" effect in most browsers */
+        color: indigo;
+    }
