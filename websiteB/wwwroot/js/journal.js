@@ -35,7 +35,8 @@
     }
 }
 
-// Create new entries separately for easy readability in the array
+// Create new entries separately then add to array
+
 const feb_13_25 = new JournalEntry(
     "Sooo I made this site!", "2/13/2025",
     "Welp, figured I'd make this dumb little site to express my feelings about life and games I've been playing lately. I don't really have any friends I can talk to about this stuff, so I figured this could be my outlet. Plus, I get some coding experience in the process. It's kinda fun so far—this is only day one. We will see how long it lasts."
@@ -59,8 +60,11 @@ const june_13_25 = new JournalEntry("Recent Hyper-Fixations", "6/13/2025", "Rece
 
 const july_13_25 = new JournalEntry("Coming Soon", "7/13/2025", "well, it's been a month, still pretty much doing the same thing I was doing a month ago, kinda been in a better place mentally I guess. Not great but not worse.. Back to the reason for this post; I am putting up a new page soon to document my new undertaking. I am working on a professor oaks challenge on Pokemon Black 2. It is going to be a massive undertaking but I really want to see if I can do it and I think it will be really fun to train up Pokemon I have never really used before on a standard playthrough team. Look forward to the new page and (somewhat) regular updates on the challenge. I'll detail the rules and all that good stuff on this page as well. I'll probably have it set up after I complete the first badge or 'section' of the run (which by the way, is a large undertaking it itself, Black 2 and White 2 are notoriouslly hard in general for a POC but the first section is especially brutal) Until then, peace ✌️");
 
+const oct_23_25 = new JournalEntry("It's been a while AGAIN..", "10/23/2025","Like normal, I'm posting for the first time in forever. This time it's been like 3 months! Time is flying by and not a lot has changed. Still pretty much doing the same thing I was back in July as far as work and home life. Got into a bout of drinking a bit too much for a bit but back on track now and otherwise everything else is still about the same. My Black 2 professor Oaks challenge is a bust. Put a lot of time into getting the first section done and my retroid pocket crapped out on me and I lost the save. Needless to say I am not redoing the hours of grinding I lost. However, I did start a new POC for Pokémon Ruby on cartridge and I've made it decently far into the first section since August. Doing a POC for ruby has made me realize just how much of an undertaking Black 2 would have been. Ruby is miles easier and more enjoyable. I've had it on pause for a bit but plan to get back to it soon. Got legends ZA on release last week. Plan on finish up my playthrough of it and giving my thoughts on my completed games page at some point soon. I would love to get back into putting more into this site or even restructuring my horrible code for it so it is somewhat presentable. We will see.. Until next time! ✌️ ");
+
+
 // Array of entries
-const entries = [july_13_25,june_13_25, may_31_25, mar_18_25, feb_19_25, feb_13_25];
+const entries = [oct_23_25,july_13_25,june_13_25, may_31_25, mar_18_25, feb_19_25, feb_13_25];
 
 // Display entries on the page
 document.addEventListener("DOMContentLoaded", function () {
