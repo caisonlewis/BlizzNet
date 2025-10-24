@@ -63,6 +63,8 @@ const july_13_25 = new JournalEntry("Coming Soon", "7/13/2025", "well, it's been
 const oct_23_25 = new JournalEntry("It's been a while AGAIN..", "10/23/2025","Like normal, I'm posting for the first time in forever. This time it's been like 3 months! Time is flying by and not a lot has changed. Still pretty much doing the same thing I was back in July as far as work and home life. Got into a bout of drinking a bit too much for a bit but back on track now and otherwise everything else is still about the same. My Black 2 professor Oaks challenge is a bust. Put a lot of time into getting the first section done and my retroid pocket crapped out on me and I lost the save. Needless to say I am not redoing the hours of grinding I lost. However, I did start a new POC for Pokémon Ruby on cartridge and I've made it decently far into the first section since August. Doing a POC for ruby has made me realize just how much of an undertaking Black 2 would have been. Ruby is miles easier and more enjoyable. I've had it on pause for a bit but plan to get back to it soon. Got legends ZA on release last week. Plan on finish up my playthrough of it and giving my thoughts on my completed games page at some point soon. I would love to get back into putting more into this site or even restructuring my horrible code for it so it is somewhat presentable. We will see.. Until next time! ✌️ ");
 
 
+const oct_23_25_2 = new JournalEntry("i see how easy it was", "10/23/2025","dude I'm drunk. but I see. I know how easy it was. life sucks. I wish u wouldn't have. but I see  how easy it was to do it. I'm sorry");
+
 // Array of entries
 const entries = [oct_23_25,july_13_25,june_13_25, may_31_25, mar_18_25, feb_19_25, feb_13_25];
 
